@@ -24,3 +24,29 @@ B站demo：https://space.bilibili.com/288489574
 ### **:fireworks: 欢迎进群** | Welcome
 
 ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加微信：**nvshenj125**，请备注：**ECCV+姓名+学校/公司名称**！一定要根据格式申请，可以拉你进群。
+
+
+**Embedding contrastive unsupervised features to cluster in- and out-of-distribution noise in corrupted image datasets**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.01573
+- 代码/Code: None
+
+**Open-world Semantic Segmentation for LIDAR Point Clouds**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.01452
+- 代码/Code: https://github.com/jun-cen/open_world_3d_semantic_segmentation
+
+**GraphVid: It Only Takes a Few Nodes to Understand a Video**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.01375
+- 代码/Code: None
+
+**Target-absent Human Attention**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.01166
+- 代码/Code: None
+
+**Lottery Ticket Hypothesis for Spiking Neural Networks**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.01382
+- 代码/Code: None
