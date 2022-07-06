@@ -25,17 +25,73 @@ B站demo：https://space.bilibili.com/288489574
 
 ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加微信：**nvshenj125**，请备注：**ECCV+姓名+学校/公司名称**！一定要根据格式申请，可以拉你进群。
 
-test
+<a name="Contents"></a>
 
-**Embedding contrastive unsupervised features to cluster in- and out-of-distribution noise in corrupted image datasets**
+### :hammer: **目录 |Table of Contents（点击直接跳转）**
 
-- 论文/Paper: http://arxiv.org/pdf/2207.01573
-- 代码/Code: None
+<details open>
+<summary> 目录（右侧点击可折叠）</summary>
+
+- [数据集/Dataset](#Dataset)
+- [GAN](#GAN)
+- [DeepFake](#DeepFake)
+- [点云/Point Cloud]( #PointCloud)
+- [其他/Other](#Other)
+
+</details>
+
+<a name="Dataset"></a> 
+
+## 数据集/Dataset
+
+[返回目录/back](#Contents)
+
+<a name="GAN"></a> 
+
+## GAN
+
+**Accelerating Score-based Generative Models with Preconditioned Diffusion Sampling**
+
+- 论文/Paper: http://arxiv.org/abs/2207.02196
+- 代码/Code: https://github.com/fudan-zvg/pds
+
+**RepMix: Representation Mixing for Robust Attribution of Synthesized Images**
+
+- 论文/Paper: http://arxiv.org/abs/2207.02063
+- 代码/Code: https://github.com/tubui/image_attribution
+
+[返回目录/back](#Contents)
+
+<a name="Dataset"></a> 
+
+## DeepFake
+
+**Detecting and Recovering Sequential DeepFake Manipulation**
+
+- 论文/Paper: http://arxiv.org/abs/2207.02204
+- 代码/Code: https://github.com/rshaojimmy/seqdeepfake
+
+[返回目录/back](#Contents)
+
+## 点云/Point Cloud
 
 **Open-world Semantic Segmentation for LIDAR Point Clouds**
 
 - 论文/Paper: http://arxiv.org/pdf/2207.01452
 - 代码/Code: https://github.com/jun-cen/open_world_3d_semantic_segmentation
+
+[返回目录/back](#Contents)
+
+
+
+<a name="Other"></a> 
+
+## 其他/Other
+
+**Embedding contrastive unsupervised features to cluster in- and out-of-distribution noise in corrupted image datasets**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.01573
+- 代码/Code: None
 
 **GraphVid: It Only Takes a Few Nodes to Understand a Video**
 
@@ -51,3 +107,40 @@ test
 
 - 论文/Paper: http://arxiv.org/pdf/2207.01382
 - 代码/Code: None
+
+**Improving Covariance Conditioning of the SVD Meta-layer by Orthogonality**
+
+- 论文/Paper: http://arxiv.org/abs/2207.02119
+- 代码/Code: https://github.com/kingjamessong/orthoimprovecond
+
+**AvatarCap: Animatable Avatar Conditioned Monocular Human Volumetric Capture**
+
+- 论文/Paper: http://arxiv.org/abs/2207.02031
+- 代码/Code: https://github.com/lizhe00/AvatarCap.
+
+**DeepPS2: Revisiting Photometric Stereo Using Two Differently Illuminated Images**
+
+- 论文/Paper: http://arxiv.org/abs/2207.02025
+- 代码/Code: None
+
+**Learning Local Implicit Fourier Representation for Image Warping**
+
+- 论文/Paper: http://arxiv.org/abs/2207.01831
+- 代码/Code: https://github.com/jaewon-lee-b/ltew
+
+**SESS: Saliency Enhancing with Scaling and Sliding**
+
+- 论文/Paper: http://arxiv.org/abs/2207.01769
+- 代码/Code: https://github.com/neouyghur/sess
+
+**TM2T: Stochastic and Tokenized Modeling for the Reciprocal Generation of 3D Human Motions and Texts**
+
+- 论文/Paper: http://arxiv.org/abs/2207.01696
+- 代码/Code: None
+
+
+
+[返回目录/back](#Contents)
+
+
+
