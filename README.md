@@ -34,6 +34,10 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - [数据集/Dataset](#Dataset)
 - [GAN](#GAN)
+- [Visual Transformer](#VisualTransformer)
+- [目标检测/Object Detection](#ObjectDetection)
+- [语义分割/Segmentation](#Segmentation)
+- [人体姿态估计/Human Pose Estimation](#HumanPoseEstimation)
 - [DeepFake](#DeepFake)
 - [点云/Point Cloud]( #PointCloud)
 - [其他/Other](#Other)
@@ -59,6 +63,57 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/abs/2207.02063
 - 代码/Code: https://github.com/tubui/image_attribution
+
+[返回目录/back](#Contents)
+
+<a name="VisualTransformer"></a> 
+
+## Visual Transformer
+
+**Weakly Supervised Grounding for VQA in Vision-Language Transformers**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.02334
+- 代码/Code: https://github.com/aurooj/wsg-vqa-vltransformers
+
+[返回目录/back](#Contents)
+
+<a name="ObjectDetection"></a> 
+
+## 目标检测/Object Detection
+
+**Dense Teacher: Dense Pseudo-Labels for Semi-supervised Object Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.02541
+- 代码/Code: None
+
+[返回目录/back](#Contents)
+
+
+
+<a name="Segmentation"></a> 
+
+## 语义分割/Segmentation
+
+**Domain Adaptive Video Segmentation via Temporal Pseudo Supervision**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.02372
+- 代码/Code: https://github.com/xing0047/tps
+
+**OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.02255
+- 代码/Code: https://github.com/pjlallen/osformer
+
+[返回目录/back](#Contents)
+
+<a name="HumanPoseEstimation"></a> 
+
+## 人体姿态估计/Human Pose Estimation
+
+**Self-Constrained Inference Optimization on Structural Groups for Human Pose Estimation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.02425
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -137,6 +192,33 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/abs/2207.01696
 - 代码/Code: None
+
+**DenseHybrid: Hybrid Anomaly Detection for Dense Open-set Recognition**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.02606
+- 代码/Code: None
+
+**FAST-VQA: Efficient End-to-end Video Quality Assessment with Fragment Sampling**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.02595
+- 代码/Code: https://github.com/timothyhtimothy/fast-vqa
+
+**Towards Realistic Semi-Supervised Learning**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.02269
+- 代码/Code: None
+
+**OpenLDN: Learning to Discover Novel Classes for Open-World Semi-Supervised Learning**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.02261
+- 代码/Code: None
+
+**Predicting is not Understanding: Recognizing and Addressing Underspecification in Machine Learning**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.02598
+- 代码/Code: None
+
+
 
 
 
