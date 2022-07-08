@@ -35,11 +35,13 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [数据集/Dataset](#Dataset)
 - [GAN](#GAN)
 - [Visual Transformer](#VisualTransformer)
+- [对比学习/Contrastive Learning](#ContrastiveLearning)
 - [目标检测/Object Detection](#ObjectDetection)
 - [语义分割/Segmentation](#Segmentation)
 - [人体姿态估计/Human Pose Estimation](#HumanPoseEstimation)
 - [DeepFake](#DeepFake)
 - [点云/Point Cloud]( #PointCloud)
+- [图像复原/Image Restoration](#ImageRestoration)
 - [其他/Other](#Other)
 
 </details>
@@ -64,6 +66,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/abs/2207.02063
 - 代码/Code: https://github.com/tubui/image_attribution
 
+**VecGAN: Image-to-Image Translation with Interpretable Latent Directions**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.03411
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="VisualTransformer"></a> 
@@ -74,6 +81,19 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.02334
 - 代码/Code: https://github.com/aurooj/wsg-vqa-vltransformers
+
+[返回目录/back](#Contents)
+
+<a name="ContrastiveLearning"></a> 
+
+## 对比学习/Contrastive Learning
+
+**Network Binarization via Contrastive Learning**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.02970
+- 代码/Code: None
+
+
 
 [返回目录/back](#Contents)
 
@@ -137,7 +157,16 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="ImageRestoration"></a>
 
+## 图像复原/Image Restoration
+
+**D2HNet: Joint Denoising and Deblurring with Hierarchical Network for Robust Night Image Restoration**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.03294
+- 代码/Code: https://github.com/zhaoyuzhi/D2HNet
+
+[返回目录/back](#Contents)
 
 <a name="Other"></a> 
 
@@ -216,6 +245,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Predicting is not Understanding: Recognizing and Addressing Underspecification in Machine Learning**
 
 - 论文/Paper: http://arxiv.org/pdf/2207.02598
+- 代码/Code: None
+
+**Factorizing Knowledge in Neural Networks**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.03337
 - 代码/Code: None
 
 
