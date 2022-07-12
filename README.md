@@ -77,6 +77,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## Visual Transformer
 
+**k-means Mask Transformer**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.04044
+- 代码/Code: https://github.com/google-research/deeplab2
+
 **Weakly Supervised Grounding for VQA in Vision-Language Transformers**
 
 - 论文/Paper: http://arxiv.org/pdf/2207.02334
@@ -105,6 +110,13 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.02541
 - 代码/Code: None
+
+**Should All Proposals be Treated Equally in Object Detection?**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.03520
+- 代码/Code: None
+
+
 
 [返回目录/back](#Contents)
 
@@ -252,7 +264,15 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.03337
 - 代码/Code: None
 
+**SuperTickets: Drawing Task-Agnostic Lottery Tickets from Supernets via Jointly Architecture Searching and Parameter Pruning**
 
+- 论文/Paper: http://arxiv.org/pdf/2207.03677
+- 代码/Code: https://github.com/RICE-EIC/SuperTickets.
+
+**Video Dialog as Conversation about Objects Living in Space-Time**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.03656
+- 代码/Code: https://github.com/hoanganhpham1006/COST
 
 
 
