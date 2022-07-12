@@ -1,4 +1,5 @@
 # ECCV2022-Papers-with-Code-Demo
+
 收集 ECCV 最新的成果，包括论文、代码和demo视频等，欢迎大家推荐！
 
 欢迎关注公众号：AI算法与图像处理
@@ -16,7 +17,7 @@ B站demo：https://space.bilibili.com/288489574
 > 往年顶会论文汇总：
 
 > [CVPR2022](https://github.com/DWCTOD/CVPR2022-Papers-with-Code-Demo)
-> 
+>
 > [CVPR2021](https://github.com/DWCTOD/CVPR2022-Papers-with-Code-Demo/blob/main/CVPR2021.md)
 >
 > [ICCV2021](https://github.com/DWCTOD/ICCV2021-Papers-with-Code-Demo)
@@ -31,6 +32,7 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 <details open>
 <summary> 目录（右侧点击可折叠）</summary>
+
 
 - [数据集/Dataset](#Dataset)
 - [GAN](#GAN)
@@ -77,6 +79,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## Visual Transformer
 
+**k-means Mask Transformer**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.04044
+- 代码/Code: https://github.com/google-research/deeplab2
+
 **Weakly Supervised Grounding for VQA in Vision-Language Transformers**
 
 - 论文/Paper: http://arxiv.org/pdf/2207.02334
@@ -105,6 +112,13 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.02541
 - 代码/Code: None
+
+**Should All Proposals be Treated Equally in Object Detection?**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.03520
+- 代码/Code: None
+
+
 
 [返回目录/back](#Contents)
 
@@ -252,7 +266,15 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.03337
 - 代码/Code: None
 
+**SuperTickets: Drawing Task-Agnostic Lottery Tickets from Supernets via Jointly Architecture Searching and Parameter Pruning**
 
+- 论文/Paper: http://arxiv.org/pdf/2207.03677
+- 代码/Code: https://github.com/RICE-EIC/SuperTickets.
+
+**Video Dialog as Conversation about Objects Living in Space-Time**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.03656
+- 代码/Code: https://github.com/hoanganhpham1006/COST
 
 
 
