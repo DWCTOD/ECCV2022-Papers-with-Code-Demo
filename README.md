@@ -35,12 +35,16 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [数据集/Dataset](#Dataset)
 - [GAN](#GAN)
 - [Visual Transformer](#VisualTransformer)
+- [多模态 / Multimodal ](#Multimodal )
 - [对比学习/Contrastive Learning](#ContrastiveLearning)
 - [目标检测/Object Detection](#ObjectDetection)
 - [语义分割/Segmentation](#Segmentation)
+- [医学图像分割/Medical Image Segmentation](#MIS)
 - [人体姿态估计/Human Pose Estimation](#HumanPoseEstimation)
+- [Relighting](#Relighting)
 - [DeepFake](#DeepFake)
-- [点云/Point Cloud]( #PointCloud)
+- [点云/Point Cloud](#PointCloud)
+- [深度估计/Depth Estimation](#DepthEstimation)
 - [图像复原/Image Restoration](#ImageRestoration)
 - [其他/Other](#Other)
 
@@ -49,6 +53,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 <a name="Dataset"></a> 
 
 ## 数据集/Dataset
+
+**COO: Comic Onomatopoeia Dataset for Recognizing Arbitrary or Truncated Texts**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.04675
+- 代码/Code: https://github.com/ku21fan/COO-Comic-Onomatopoeia
 
 [返回目录/back](#Contents)
 
@@ -60,6 +69,16 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/abs/2207.02196
 - 代码/Code: https://github.com/fudan-zvg/pds
+
+**CCPL: Contrastive Coherence Preserving Loss for Versatile Style Transfer**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.04808
+- 代码/Code: https://github.com/JarrentWu1031/CCPL
+
+**Fast-Vid2Vid: Spatial-Temporal Compression for Video-to-Video Synthesis**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.05049
+- 代码/Code: https://github.com/fast-vid2vid/fast-vid2vid
 
 **RepMix: Representation Mixing for Robust Attribution of Synthesized Images**
 
@@ -86,6 +105,37 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.02334
 - 代码/Code: https://github.com/aurooj/wsg-vqa-vltransformers
+
+**Wave-ViT: Unifying Wavelet and Transformers for Visual Representation Learning**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.04978
+- 代码/Code: https://github.com/YehLi/ImageNetModel
+
+**CoMER: Modeling Coverage for Transformer-based Handwritten Mathematical Expression Recognition**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.04410
+- 代码/Code: https://github.com/Green-Wood/CoMER
+
+[返回目录/back](#Contents)
+
+<a name="Multimodal"></a> 
+
+## 多模态 / Multimodal
+
+**Audio-Visual Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.05042
+- 代码/Code: https://github.com/OpenNLPLab/AVSBench
+
+**Cross-modal Prototype Driven Network for Radiology Report Generation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.04818
+- 代码/Code: None
+
+**Hierarchical Latent Structure for Multi-Modal Vehicle Trajectory Forecasting**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.04624
+- 代码/Code: https://github.com/d1024choi/HLSTrajForecast
 
 [返回目录/back](#Contents)
 
@@ -138,6 +188,17 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="MIS"></a> 
+
+## 医学图像分割/Medical Image Segmentation
+
+**Personalizing Federated Medical Image Segmentation via Local Calibration**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.04655
+- 代码/Code: https://github.com/jcwang123/FedLC
+
+[返回目录/back](#Contents)
+
 <a name="HumanPoseEstimation"></a> 
 
 ## 人体姿态估计/Human Pose Estimation
@@ -149,7 +210,18 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
-<a name="Dataset"></a> 
+<a name="Relighting"></a> 
+
+## Relighting
+
+**Geometry-aware Single-image Full-body Human Relighting**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.04750
+- 代码/Code: None
+
+[返回目录/back](#Contents)
+
+<a name="DeepFake"></a> 
 
 ## DeepFake
 
@@ -160,12 +232,35 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="PointCloud"></a>
+
 ## 点云/Point Cloud
 
 **Open-world Semantic Segmentation for LIDAR Point Clouds**
 
 - 论文/Paper: http://arxiv.org/pdf/2207.01452
 - 代码/Code: https://github.com/jun-cen/open_world_3d_semantic_segmentation
+
+**2DPASS: 2D Priors Assisted Semantic Segmentation on LiDAR Point Clouds**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.04397
+- 代码/Code: None
+
+[返回目录/back](#Contents)
+
+<a name="DepthEstimation"></a>
+
+## 深度估计/Depth Estimation
+
+**Physical Attack on Monocular Depth Estimation with Optimal Adversarial Patches**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.04718
+- 代码/Code: None
+
+**Towards Scale-Aware, Robust, and Generalizable Unsupervised Monocular Depth Estimation by Integrating IMU Motion Dynamics**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.04680
+- 代码/Code: https://github.com/SenZHANG-GitHub/ekf-imu-depth
 
 [返回目录/back](#Contents)
 
@@ -273,6 +368,31 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.03656
 - 代码/Code: https://github.com/hoanganhpham1006/COST
+
+**Demystifying Unsupervised Semantic Correspondence Estimation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.05054
+- 代码/Code: None
+
+**A Closer Look at Invariances in Self-supervised Pre-training for 3D Vision**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.04997
+- 代码/Code: None
+
+**DCCF: Deep Comprehensible Color Filter Learning Framework for High-Resolution Image Harmonization**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.04788
+- 代码/Code: None
+
+**Batch-efficient EigenDecomposition for Small and Medium Matrices**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.04228
+- 代码/Code: None
+
+**Few 'Zero Level Set'-Shot Learning of Shape Signed Distance Functions in Feature Space**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.04161
+- 代码/Code: None
 
 
 
