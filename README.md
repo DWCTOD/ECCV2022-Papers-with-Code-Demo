@@ -33,6 +33,7 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 <summary> 目录（右侧点击可折叠）</summary>
 
 - [数据集/Dataset](#Dataset)
+- [Image Classification](#ImageClassification)
 - [GAN](#GAN)
 - [Visual Transformer](#VisualTransformer)
 - [多模态/Multimodal ](#Multimodal )
@@ -42,10 +43,12 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [语义分割/Segmentation](#Segmentation)
 - [医学图像分割/Medical Image Segmentation](#MIS)
 - [Knowledge Distillation](#KnowledgeDistillation)
+- [Action Detection](#ActionDetection)
 - [Action Recognition](#ActionRecognition)
 - [人体姿态估计/Human Pose Estimation](#HumanPoseEstimation)
 - [Relighting](#Relighting)
 - [DeepFake](#DeepFake)
+- [Text Recognition](#TextRecognition)
 - [点云/Point Cloud](#PointCloud)
 - [深度估计/Depth Estimation](#DepthEstimation)
 - [图像复原/Image Restoration](#ImageRestoration)
@@ -61,6 +64,17 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.04675
 - 代码/Code: https://github.com/ku21fan/COO-Comic-Onomatopoeia
+
+[返回目录/back](#Contents)
+
+<a name="ImageClassification"></a> 
+
+## Image Classification
+
+**Tree Structure-Aware Few-Shot Image Classification via Hierarchical Aggregation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.06989
+- 代码/Code: https://github.com/remiMZ/HTS-ECCV22
 
 [返回目录/back](#Contents)
 
@@ -102,6 +116,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.06124
 - 代码/Code: https://github.com/huage001/dynast
+
+**Supervised Attribute Information Removal and Reconstruction for Image Manipulation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.06555
+- 代码/Code: https://github.com/nannanli999/airr
 
 [返回目录/back](#Contents)
 
@@ -183,7 +202,12 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Video Graph Transformer for Video Question Answering**
 
 - 论文/Paper: http://arxiv.org/pdf/2207.05342
-- 代码/Code: https://github.com/sail-sg/VGT.
+- 代码/Code: https://github.com/sail-sg/VGT
+
+**Bootstrapped Masked Autoencoders for Vision BERT Pretraining**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.07116
+- 代码/Code: https://github.com/lightdxy/bootmae
 
 [返回目录/back](#Contents)
 
@@ -200,6 +224,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.05306
 - 代码/Code: None
+
+**ConCL: Concept Contrastive Learning for Dense Prediction Pre-training in Pathology Images**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.06733
+- 代码/Code: https://github.com/tencentailabhealthcare/concl
 
 [返回目录/back](#Contents)
 
@@ -227,6 +256,16 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.06202
 - 代码/Code: https://github.com/7eu7d7/robustdet
 
+**ObjectBox: From Centers to Boxes for Anchor-Free Object Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.06985
+- 代码/Code: https://github.com/mohsenzand/objectbox
+
+**Point-to-Box Network for Accurate Object Detection via Single Point Supervision**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.06827
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="ObjectTracking"></a> 
@@ -237,6 +276,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.05518
 - 代码/Code: None
+
+**Towards Grand Unification of Object Tracking**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.07078
+- 代码/Code: https://github.com/masterbin-iiau/unicorn
 
 [返回目录/back](#Contents)
 
@@ -259,6 +303,16 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.05282
 - 代码/Code: None
 
+**XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.07115
+- 代码/Code: https://github.com/hkchengrex/XMem
+
+**Tackling Background Distraction in Video Object Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.06953
+- 代码/Code: https://github.com/suhwan-cho/tbd
+
 [返回目录/back](#Contents)
 
 <a name="MIS"></a> 
@@ -280,6 +334,27 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.05409
 - 代码/Code: https://github.com/dzy3/KCD.
+
+[返回目录/back](#Contents)
+
+<a name="ActionDetection"></a> 
+
+## Action Detection
+
+**ReAct: Temporal Action Detection with Relational Queries**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.07097
+- 代码/Code: https://github.com/sssste/react
+
+**Semi-Supervised Temporal Action Detection with Proposal-Free Masking**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.07059
+- 代码/Code: https://github.com/sauradip/SPOT
+
+**Temporal Action Detection with Global Segmentation Mask Learning**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.06580
+- 代码/Code: https://github.com/sauradip/TAGS
 
 [返回目录/back](#Contents)
 
@@ -324,6 +399,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.04750
 - 代码/Code: None
 
+**Relighting4D: Neural Relightable Human from Videos**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.07104
+- 代码/Code: https://github.com/FrozenBurning/Relighting4D
+
 [返回目录/back](#Contents)
 
 <a name="DeepFake"></a> 
@@ -334,6 +414,22 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/abs/2207.02204
 - 代码/Code: https://github.com/rshaojimmy/seqdeepfake
+
+[返回目录/back](#Contents)
+
+<a name="TextRecognition"></a>
+
+## Text Recognition
+
+**Scene Text Recognition with Permuted Autoregressive Sequence Models**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.06966
+- 代码/Code: https://github.com/baudm/parseq
+
+**Dynamic Low-Resolution Distillation for Cost-Efficient End-to-End Text Spotting**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.06694
+- 代码/Code: https://github.com/hikopensource/davar-lab-ocr
 
 [返回目录/back](#Contents)
 
@@ -528,6 +624,23 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.06167
 - 代码/Code: None
+
+**Learning Implicit Templates for Point-Based Clothed Human Modeling**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.06955
+- 代码/Code: https://github.com/jsnln/fite
+
+**BayesCap: Bayesian Identity Cap for Calibrated Uncertainty in Frozen Neural Networks**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.06873
+- 代码/Code: https://github.com/explainableml/bayescap
+
+**Lipschitz Continuity Retained Binary Neural Network**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.06540
+- 代码/Code: https://github.com/42shawn/lcr_bnn
+
+
 
 [返回目录/back](#Contents)
 
