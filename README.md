@@ -35,11 +35,14 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [数据集/Dataset](#Dataset)
 - [GAN](#GAN)
 - [Visual Transformer](#VisualTransformer)
-- [多模态 / Multimodal ](#Multimodal )
+- [多模态/Multimodal ](#Multimodal )
 - [对比学习/Contrastive Learning](#ContrastiveLearning)
 - [目标检测/Object Detection](#ObjectDetection)
+- [目标跟踪/Object Tracking](#ObjectTracking)
 - [语义分割/Segmentation](#Segmentation)
 - [医学图像分割/Medical Image Segmentation](#MIS)
+- [Knowledge Distillation](#KnowledgeDistillation)
+- [Action Recognition](#ActionRecognition)
 - [人体姿态估计/Human Pose Estimation](#HumanPoseEstimation)
 - [Relighting](#Relighting)
 - [DeepFake](#DeepFake)
@@ -90,6 +93,16 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.03411
 - 代码/Code: None
 
+**Context-Consistent Semantic Image Editing with Style-Preserved Modulation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.06252
+- 代码/Code: https://github.com/wuyangluo/spmpgan
+
+**DynaST: Dynamic Sparse Transformer for Exemplar-Guided Image Generation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.06124
+- 代码/Code: https://github.com/huage001/dynast
+
 [返回目录/back](#Contents)
 
 <a name="VisualTransformer"></a> 
@@ -116,6 +129,31 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.04410
 - 代码/Code: https://github.com/Green-Wood/CoMER
 
+**Towards Hard-Positive Query Mining for DETR-based Human-Object Interaction Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.05293
+- 代码/Code: https://github.com/MuchHair/HQM
+
+**Hunting Group Clues with Transformers for Social Group Activity Recognition**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.05254
+- 代码/Code: None
+
+**Entry-Flipped Transformer for Inference and Prediction of Participant Behavior**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.06235
+- 代码/Code: None
+
+**DynaST: Dynamic Sparse Transformer for Exemplar-Guided Image Generation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.06124
+- 代码/Code: https://github.com/huage001/dynast
+
+**Global-local Motion Transformer for Unsupervised Skeleton-based Action Learning**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.06101
+- 代码/Code: https://github.com/boeun-kim/gl-transformer
+
 [返回目录/back](#Contents)
 
 <a name="Multimodal"></a> 
@@ -137,6 +175,16 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.04624
 - 代码/Code: https://github.com/d1024choi/HLSTrajForecast
 
+**UniNet: Unified Architecture Search with Convolution, Transformer, and MLP**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.05420
+- 代码/Code: https://github.com/Sense-X/UniNet
+
+**Video Graph Transformer for Video Question Answering**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.05342
+- 代码/Code: https://github.com/sail-sg/VGT.
+
 [返回目录/back](#Contents)
 
 <a name="ContrastiveLearning"></a> 
@@ -148,7 +196,10 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.02970
 - 代码/Code: None
 
+**Contrastive Deep Supervision**
 
+- 论文/Paper: http://arxiv.org/pdf/2207.05306
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -166,11 +217,28 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.03520
 - 代码/Code: None
 
+**HEAD: HEtero-Assists Distillation for Heterogeneous Object Detectors**
 
+- 论文/Paper: http://arxiv.org/pdf/2207.05345
+- 代码/Code: https://github.com/LutingWang/HEAD
+
+**Adversarially-Aware Robust Object Detector**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.06202
+- 代码/Code: https://github.com/7eu7d7/robustdet
 
 [返回目录/back](#Contents)
 
+<a name="ObjectTracking"></a> 
 
+## 目标跟踪/Object Tracking
+
+**Tracking Objects as Pixel-wise Distributions**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.05518
+- 代码/Code: None
+
+[返回目录/back](#Contents)
 
 <a name="Segmentation"></a> 
 
@@ -186,6 +254,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.02255
 - 代码/Code: https://github.com/pjlallen/osformer
 
+**PseudoClick: Interactive Image Segmentation with Click Imitation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.05282
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="MIS"></a> 
@@ -199,6 +272,28 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="KnowledgeDistillation"></a> 
+
+## Knowledge Distillation
+
+**Knowledge Condensation Distillation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.05409
+- 代码/Code: https://github.com/dzy3/KCD.
+
+[返回目录/back](#Contents)
+
+<a name="ActionRecognition"></a> 
+
+## Action Recognition
+
+**Compound Prototype Matching for Few-shot Action Recognition**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.05515
+- 代码/Code: None
+
+[返回目录/back](#Contents)
+
 <a name="HumanPoseEstimation"></a> 
 
 ## 人体姿态估计/Human Pose Estimation
@@ -207,6 +302,16 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.02425
 - 代码/Code: None
+
+**Category-Level 6D Object Pose and Size Estimation using Self-Supervised Deep Prior Deformation Networks**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.05444
+- 代码/Code: https://github.com/JiehongLin/Self-DPDN
+
+**Global-local Motion Transformer for Unsupervised Skeleton-based Action Learning**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.06101
+- 代码/Code: https://github.com/boeun-kim/gl-transformer
 
 [返回目录/back](#Contents)
 
@@ -244,6 +349,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **2DPASS: 2D Priors Assisted Semantic Segmentation on LiDAR Point Clouds**
 
 - 论文/Paper: http://arxiv.org/pdf/2207.04397
+- 代码/Code: None
+
+**CPO: Change Robust Panorama to Point Cloud Localization**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.05317
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -394,7 +504,30 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.04161
 - 代码/Code: None
 
+**Camera Pose Auto-Encoders for Improving Pose Regression**
 
+- 论文/Paper: http://arxiv.org/pdf/2207.05530
+- 代码/Code: https://github.com/yolish/camera-pose-auto-encoders
+
+**Synergistic Self-supervised and Quantization Learning**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.05432
+- 代码/Code: https://github.com/megvii-research/SSQL-ECCV2022
+
+**Frequency Domain Model Augmentation for Adversarial Attack**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.05382
+- 代码/Code: https://github.com/yuyang-long/ssa
+
+**Organic Priors in Non-Rigid Structure from Motion**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.06262
+- 代码/Code: None
+
+**Unsupervised Visual Representation Learning by Synchronous Momentum Grouping**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.06167
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
