@@ -452,6 +452,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.05317
 - 代码/Code: None
 
+**diffConv: Analyzing Irregular Point Clouds with an Irregular View**
+
+- 论文/Paper: https://arxiv.org/abs/2111.14658
+- 代码/Code: https://github.com/mmmmimic/diffConvNet
+
 [返回目录/back](#Contents)
 
 <a name="DepthEstimation"></a>
