@@ -53,6 +53,7 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [点云/Point Cloud](#PointCloud)
 - [光流估计/Flow Estimation](#FlowEstimation)
 - [深度估计/Depth Estimation](#DepthEstimation)
+- [轨迹预测/Trajectory Prediction](#TrajectoryPrediction)
 - [图像复原/Image Restoration](#ImageRestoration)
 - [其他/Other](#Other)
 
@@ -77,6 +78,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.06989
 - 代码/Code: https://github.com/remiMZ/HTS-ECCV22
+
+**Bagging Regional Classification Activation Maps for Weakly Supervised Object Localization**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.07818
+- 代码/Code: https://github.com/zh460045050/BagCAMs
 
 [返回目录/back](#Contents)
 
@@ -134,6 +140,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.07288
 - 代码/Code: Link:https://github.com/kobeshegu/ECCV2022_WaveGAN
 
+**FakeCLR: Exploring Contrastive Learning for Solving Latent Discontinuity in Data-Efficient GANs**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.08630
+- 代码/Code: https://github.com/iceli1007/FakeCLR
+
 [返回目录/back](#Contents)
 
 <a name="VisualTransformer"></a> 
@@ -184,6 +195,16 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.06101
 - 代码/Code: https://github.com/boeun-kim/gl-transformer
+
+**TokenMix: Rethinking Image Mixing for Data Augmentation in Vision Transformers**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.08409
+- 代码/Code: https://github.com/Sense-X/TokenMix
+
+**TS2-Net: Token Shift and Selection Transformer for Text-Video Retrieval**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.07852
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -242,6 +263,26 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.06733
 - 代码/Code: https://github.com/tencentailabhealthcare/concl
 
+**Action-based Contrastive Learning for Trajectory Prediction**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.08664
+- 代码/Code: None
+
+**FakeCLR: Exploring Contrastive Learning for Solving Latent Discontinuity in Data-Efficient GANs**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.08630
+- 代码/Code: https://github.com/iceli1007/FakeCLR.
+
+**Adversarial Contrastive Learning via Asymmetric InfoNCE**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.08374
+- 代码/Code: https://github.com/yqy2001/A-InfoNCE
+
+**Fast-MoCo: Boost Momentum-based Contrastive Learning with Combinatorial Patches**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.08220
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="ObjectDetection"></a> 
@@ -277,6 +318,16 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.06827
 - 代码/Code: None
+
+**DID-M3D: Decoupling Instance Depth for Monocular 3D Object Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.08531
+- 代码/Code: https://github.com/SPengLiang/DID-M3D.
+
+**SPSN: Superpixel Prototype Sampling Network for RGB-D Salient Object Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.07898
+- 代码/Code: https://github.com/Hydragon516/SPSN
 
 [返回目录/back](#Contents)
 
@@ -324,6 +375,26 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.06953
 - 代码/Code: https://github.com/suhwan-cho/tbd
+
+**Dense Cross-Query-and-Support Attention Weighted Mask Aggregation for Few-Shot Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.08549
+- 代码/Code: None
+
+**Hierarchical Feature Alignment Network for Unsupervised Video Object Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.08485
+- 代码/Code: https://github.com/NUST-Machine-Intelligence-Laboratory/HFAN
+
+**Open-world Semantic Segmentation via Contrasting and Clustering Vision-Language Embedding**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.08455
+- 代码/Code: None
+
+**Learning Quality-aware Dynamic Memory for Video Object Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.07922
+- 代码/Code: https://github.com/workforai/QDMN
 
 [返回目录/back](#Contents)
 
@@ -411,6 +482,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.06101
 - 代码/Code: https://github.com/boeun-kim/gl-transformer
 
+**TransGrasp: Grasp Pose Estimation of a Category of Objects by Transferring Grasps from Only One Labeled Instance**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.07861
+- 代码/Code: https://github.com/yanjh97/TransGrasp
+
 [返回目录/back](#Contents)
 
 <a name="Relighting"></a> 
@@ -480,6 +556,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: https://arxiv.org/abs/2111.14658
 - 代码/Code: https://github.com/mmmmimic/diffConvNet
 
+**CATRE: Iterative Point Clouds Alignment for Category-level Object Pose Refinement**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.08082
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 
@@ -508,6 +589,17 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.04680
 - 代码/Code: https://github.com/SenZHANG-GitHub/ekf-imu-depth
+
+[返回目录/back](#Contents)
+
+<a name="TrajectoryPrediction"></a>
+
+## 轨迹预测/Trajectory Prediction
+
+**Action-based Contrastive Learning for Trajectory Prediction**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.08664
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -689,7 +781,119 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **ScaleNet: Searching for the Model to Scale**
 
 - 论文/Paper: http://arxiv.org/pdf/2207.07267
-- 代码/Code: https://github.com/luminolx/ScaleNet.
+- 代码/Code: https://github.com/luminolx/ScaleNet
+
+**Rethinking Data Augmentation for Robust Visual Question Answering**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.08739
+- 代码/Code: https://github.com/ItemZheng/KDDAug
+
+**Semantic Novelty Detection via Relational Reasoning**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.08699
+- 代码/Code: None
+
+**Label2Label: A Language Modeling Framework for Multi-Attribute Learning**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.08677
+- 代码/Code: https://github.com/Li-Wanhua/Label2Label.
+
+**Towards High-Fidelity Single-view Holistic Reconstruction of Indoor Scenes**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.08656
+- 代码/Code: https://github.com/UncleMEDM/InstPIFu
+
+**Class-incremental Novel Class Discovery**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.08605
+- 代码/Code: https://github.com/OatmealLiu/class-iNCD
+
+**MPIB: An MPI-Based Bokeh Rendering Framework for Realistic Partial Occlusion Effects**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.08403
+- 代码/Code: None
+
+**SepLUT: Separable Image-adaptive Lookup Tables for Real-time Image Enhancement**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.08351
+- 代码/Code: None
+
+**Learning with Recoverable Forgetting**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.08224
+- 代码/Code: None
+
+**Zero-Shot Temporal Action Detection via Vision-Language Prompting**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.08184
+- 代码/Code: https://github.com/sauradip/STALE
+
+**Watermark Vaccine: Adversarial Attacks to Prevent Watermark Removal**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.08178
+- 代码/Code: None
+
+**FashionViL: Fashion-Focused Vision-and-Language Representation Learning**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.08150
+- 代码/Code: https://github.com/BrandonHanx/mmf.
+
+**E-NeRV: Expedite Neural Video Representation with Disentangled Spatial-Temporal Context**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.08132
+- 代码/Code: https://github.com/kyleleey/E-NeRV.
+
+**Neural Color Operators for Sequential Image Retouching**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.08080
+- 代码/Code: https://github.com/amberwangyili/neurop
+
+**Semi-Supervised Keypoint Detector and Descriptor for Retinal Image Matching**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.07932
+- 代码/Code: None
+
+**JPerceiver: Joint Perception Network for Depth, Pose and Layout Estimation in Driving Scenes**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.07895
+- 代码/Code: at~\href{https://github.com/sunnyHelen/JPerceiver}{https://github.com/sunnyHelen/JPerceiver}.
+
+**You Should Look at All Objects**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.07889
+- 代码/Code: None
+
+**NeFSAC: Neurally Filtered Minimal Samples**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.07872
+- 代码/Code: https://github.com/cavalli1234/NeFSAC.
+
+**CLOSE: Curriculum Learning On the Sharing Extent Towards Better One-shot NAS**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.07868
+- 代码/Code: https://github.com/walkerning/aw_nas.
+
+**Cross-Domain Cross-Set Few-Shot Learning via Learning Compact and Aligned Representations**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.07826
+- 代码/Code: https://github.com/WentaoChen0813/CDCS-FSL
+
+**Self-calibrating Photometric Stereo by Neural Inverse Rendering**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.07815
+- 代码/Code: https://github.com/junxuan-li/SCPS-NIR
+
+**Learning Long-Term Spatial-Temporal Graphs for Active Speaker Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.07783
+- 代码/Code: https://github.com/SRA2/SPELL
+
+**Towards Understanding The Semidefinite Relaxations of Truncated Least-Squares in Robust Rotation Search**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.08350
+- 代码/Code: None
+
+
 
 [返回目录/back](#Contents)
 
