@@ -45,11 +45,13 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Knowledge Distillation](#KnowledgeDistillation)
 - [Action Detection](#ActionDetection)
 - [Action Recognition](#ActionRecognition)
+- [Anomaly Detection](#AnomalyDetection)
 - [人体姿态估计/Human Pose Estimation](#HumanPoseEstimation)
 - [Relighting](#Relighting)
 - [DeepFake](#DeepFake)
 - [Text Recognition](#TextRecognition)
 - [点云/Point Cloud](#PointCloud)
+- [光流估计/Flow Estimation](#FlowEstimation)
 - [深度估计/Depth Estimation](#DepthEstimation)
 - [图像复原/Image Restoration](#ImageRestoration)
 - [其他/Other](#Other)
@@ -127,6 +129,10 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: https://arxiv.org/abs/2112.02450
 - 代码/Code: https://github.com/dzld00/Adaptive-Feature-Interpolation-for-Low-Shot-Image-Generation
 
+**WaveGAN: Frequency-aware GAN for High-Fidelity Few-shot Image Generation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.07288
+- 代码/Code: Link:https://github.com/kobeshegu/ECCV2022_WaveGAN
 
 [返回目录/back](#Contents)
 
@@ -375,6 +381,17 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="AnomalyDetection"></a> 
+
+## Anomaly Detection
+
+**Registration based Few-Shot Anomaly Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.07361
+- 代码/Code: https://github.com/MediaBrain-SJTU/RegAD
+
+[返回目录/back](#Contents)
+
 <a name="HumanPoseEstimation"></a> 
 
 ## 人体姿态估计/Human Pose Estimation
@@ -462,6 +479,19 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: https://arxiv.org/abs/2111.14658
 - 代码/Code: https://github.com/mmmmimic/diffConvNet
+
+[返回目录/back](#Contents)
+
+
+
+<a name="FlowEstimation"></a>
+
+## 光流估计/Flow Estimation
+
+**Bi-PointFlowNet: Bidirectional Learning for Point Cloud Based Scene Flow Estimation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.07522
+- 代码/Code: https://github.com/cwc1260/BiFlow
 
 [返回目录/back](#Contents)
 
@@ -651,7 +681,15 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.06540
 - 代码/Code: https://github.com/42shawn/lcr_bnn
 
+**3D Instances as 1D Kernels**
 
+- 论文/Paper: http://arxiv.org/pdf/2207.07372
+- 代码/Code: https://github.com/W1zheng/DKNet
+
+**ScaleNet: Searching for the Model to Scale**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.07267
+- 代码/Code: https://github.com/luminolx/ScaleNet.
 
 [返回目录/back](#Contents)
 
