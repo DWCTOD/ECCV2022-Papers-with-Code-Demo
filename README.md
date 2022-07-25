@@ -122,6 +122,12 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.06555
 - 代码/Code: https://github.com/nannanli999/airr
 
+**Name: Adaptive Feature Interpolation for Low-Shot Image Generation**
+
+- 论文/Paper: https://arxiv.org/abs/2112.02450
+- 代码/Code: https://github.com/dzld00/Adaptive-Feature-Interpolation-for-Low-Shot-Image-Generation
+
+
 [返回目录/back](#Contents)
 
 <a name="VisualTransformer"></a> 
