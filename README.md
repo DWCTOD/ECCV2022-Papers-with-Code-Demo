@@ -145,6 +145,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.08630
 - 代码/Code: https://github.com/iceli1007/FakeCLR
 
+**Outpainting by Queries**
+- 论文/Paper: https://arxiv.org/abs/2207.05312
+- 代码/Code: https://github.com/Kaiseem/QueryOTR
+
+
 [返回目录/back](#Contents)
 
 <a name="VisualTransformer"></a> 
