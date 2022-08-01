@@ -35,6 +35,7 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [数据集/Dataset](#Dataset)
 - [Image Classification](#ImageClassification)
 - [GAN](#GAN)
+- [NeRF](#NeRF)
 - [Visual Transformer](#VisualTransformer)
 - [多模态/Multimodal ](#Multimodal )
 - [对比学习/Contrastive Learning](#ContrastiveLearning)
@@ -46,6 +47,13 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [Action Detection](#ActionDetection)
 - [Action Recognition](#ActionRecognition)
 - [Anomaly Detection](#AnomalyDetection)
+- [人脸识别/Face Recognition](#FaceRecognition)
+- [人脸检测/Face Detection](#FaceDetection)
+- [人脸活体检测/Face Anti-Spoofing](#FaceAnti-Spoofing)
+- [人脸年龄估计/Age Estimation](#AgeEstimation)
+- [人脸表情识别/Facial Expression Recognition](#FacialExpressionRecognition)
+- [人脸属性识别/Facial Attribute Recognition](#FacialAttributeRecognition)
+- [人脸编辑/Facial Editing](#FacialEditing)
 - [人体姿态估计/Human Pose Estimation](#HumanPoseEstimation)
 - [Human Reconstruction](#HumanReconstruction)
 - [Relighting](#Relighting)
@@ -177,6 +185,19 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.10061
 - 代码/Code: https://github.com/junzhezhang/mesh-inversion
+
+[返回目录/back](#Contents)
+
+<a name="NeRF"></a> 
+
+## NeRF
+
+**Streamable Neural Fields**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.09663
+- 代码/Code: https://github.com/jwcho5576/streamable_nf
+
+
 
 [返回目录/back](#Contents)
 
@@ -598,6 +619,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.05515
 - 代码/Code: None
 
+**Collaborating Domain-shared and Target-specific Feature Clustering for Cross-domain 3D Action Recognition**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.09767
+- 代码/Code: https://github.com/canbaoburen/CoDT
+
 [返回目录/back](#Contents)
 
 <a name="AnomalyDetection"></a> 
@@ -637,6 +663,17 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="FaceAnti-Spoofing"></a> 
+
+## 人脸活体检测/Face Anti-Spoofing
+
+**Generative Domain Adaptation for Face Anti-Spoofing**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10015
+- 代码/Code: None
+
+[返回目录/back](#Contents)
+
 <a name="HumanReconstruction"></a> 
 
 ## Human Reconstruction
@@ -645,6 +682,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.10053
 - 代码/Code: https://github.com/hygenie1228/clothwild_release
+
+**UNIF: United Neural Implicit Functions for Clothed Human Reconstruction and Animation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.09835
+- 代码/Code: https://github.com/ShenhanQian/UNIF
 
 [返回目录/back](#Contents)
 
@@ -672,11 +714,6 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/abs/2207.02204
 - 代码/Code: https://github.com/rshaojimmy/seqdeepfake
-
-**Generative Domain Adaptation for Face Anti-Spoofing**
-
-- 论文/Paper: http://arxiv.org/pdf/2207.10015
-- 代码/Code: None
 
 **An Efficient Method for Face Quality Assessment on the Edge**
 
@@ -797,6 +834,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.09953
 - 代码/Code: https://github.com/inhwanbae/gpgraph
+
+**Aware of the History: Trajectory Forecasting with the Local Behavior Data**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.09646
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -1217,16 +1259,6 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.09865
 - 代码/Code: None
 
-**UNIF: United Neural Implicit Functions for Clothed Human Reconstruction and Animation**
-
-- 论文/Paper: http://arxiv.org/pdf/2207.09835
-- 代码/Code: https://github.com/ShenhanQian/UNIF
-
-**Collaborating Domain-shared and Target-specific Feature Clustering for Cross-domain 3D Action Recognition**
-
-- 论文/Paper: http://arxiv.org/pdf/2207.09767
-- 代码/Code: https://github.com/canbaoburen/CoDT
-
 **Resolving Copycat Problems in Visual Imitation Learning via Residual Action Prediction**
 
 - 论文/Paper: http://arxiv.org/pdf/2207.09705
@@ -1250,16 +1282,6 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **ERA: Expert Retrieval and Assembly for Early Action Prediction**
 
 - 论文/Paper: http://arxiv.org/pdf/2207.09675
-- 代码/Code: None
-
-**Streamable Neural Fields**
-
-- 论文/Paper: http://arxiv.org/pdf/2207.09663
-- 代码/Code: https://github.com/jwcho5576/streamable_nf
-
-**Aware of the History: Trajectory Forecasting with the Local Behavior Data**
-
-- 论文/Paper: http://arxiv.org/pdf/2207.09646
 - 代码/Code: None
 
 **Perspective Phase Angle Model for Polarimetric 3D Reconstruction**
