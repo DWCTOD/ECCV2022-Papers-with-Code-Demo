@@ -53,7 +53,9 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [点云/Point Cloud](#PointCloud)
 - [光流估计/Flow Estimation](#FlowEstimation)
 - [深度估计/Depth Estimation](#DepthEstimation)
+- [车道线检测/Lane Detection](#LaneDetection)
 - [轨迹预测/Trajectory Prediction](#TrajectoryPrediction)
+- [超分/Super-Resolution](#Super-Resolution)
 - [图像复原/Image Restoration](#ImageRestoration)
 - [其他/Other](#Other)
 
@@ -149,6 +151,15 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: https://arxiv.org/abs/2207.05312
 - 代码/Code: https://github.com/Kaiseem/QueryOTR
 
+**Single Stage Virtual Try-on via Deformable Attention Flows**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.09161
+- 代码/Code: None
+
+**Structure-aware Editable Morphable Model for 3D Facial Detail Animation and Manipulation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.09019
+- 代码/Code: https://github.com/gerwang/facial-detail-manipulation
 
 [返回目录/back](#Contents)
 
@@ -211,6 +222,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.07852
 - 代码/Code: None
 
+**Action Quality Assessment with Temporal Parsing Transformer**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.09270
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="Multimodal"></a> 
@@ -246,6 +262,16 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.07116
 - 代码/Code: https://github.com/lightdxy/bootmae
+
+**Learning Mutual Modulation for Self-Supervised Cross-Modal Super-Resolution**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.09156
+- 代码/Code: None
+
+**Exploiting Unlabeled Data with Vision and Language Models for Object Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.08954
+- 代码/Code: https://github.com/xiaofeng94/VL-PLM
 
 [返回目录/back](#Contents)
 
@@ -334,6 +360,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.07898
 - 代码/Code: https://github.com/Hydragon516/SPSN
 
+**Rethinking IoU-based Optimization for Single-stage 3D Object Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.09332
+- 代码/Code: https://github.com/hlsheng1/RDIoU
+
 [返回目录/back](#Contents)
 
 <a name="ObjectTracking"></a> 
@@ -349,6 +380,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.07078
 - 代码/Code: https://github.com/masterbin-iiau/unicorn
+
+**The Caltech Fish Counting Dataset: A Benchmark for Multiple-Object Tracking and Counting**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.09295
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -401,6 +437,23 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.07922
 - 代码/Code: https://github.com/workforai/QDMN
 
+**Box-supervised Instance Segmentation with Level Set Evolution**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.09055
+- 代码/Code: https://github.com/LiWentomng/boxlevelset
+
+**ML-BPM: Multi-teacher Learning with Bidirectional Photometric Mixing for Open Compound Domain Adaptation in Semantic Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.09045
+- 代码/Code: None
+
+**Self-Supervised Interactive Object Segmentation Through a Singulation-and-Grasping Approach**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.09314
+- 代码/Code: None
+
+
+
 [返回目录/back](#Contents)
 
 <a name="MIS"></a> 
@@ -421,7 +474,12 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Knowledge Condensation Distillation**
 
 - 论文/Paper: http://arxiv.org/pdf/2207.05409
-- 代码/Code: https://github.com/dzy3/KCD.
+- 代码/Code: https://github.com/dzy3/KCD
+
+**FedX: Unsupervised Federated Learning with Cross Knowledge Distillation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.09158
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -566,6 +624,13 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.08082
 - 代码/Code: None
 
+**Dual Adaptive Transformations for Weakly Supervised Point Cloud Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.09084
+- 代码/Code: None
+
+
+
 [返回目录/back](#Contents)
 
 
@@ -578,6 +643,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.07522
 - 代码/Code: https://github.com/cwc1260/BiFlow
+
+**What Matters for 3D Scene Flow Network**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.09143
+- 代码/Code: https://github.com/IRMVLab/3DFlow.
 
 [返回目录/back](#Contents)
 
@@ -597,6 +667,17 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="LaneDetection"></a>
+
+## 车道线检测/Lane Detection
+
+**RCLane: Relay Chain Prediction for Lane Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.09399
+- 代码/Code: None
+
+[返回目录/back](#Contents)
+
 <a name="TrajectoryPrediction"></a>
 
 ## 轨迹预测/Trajectory Prediction
@@ -604,6 +685,22 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Action-based Contrastive Learning for Trajectory Prediction**
 
 - 论文/Paper: http://arxiv.org/pdf/2207.08664
+- 代码/Code: None
+
+[返回目录/back](#Contents)
+
+<a name="Super-Resolution"></a>
+
+## 超分/Super-Resolution
+
+**Image Super-Resolution with Deep Dictionary**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.09228
+- 代码/Code: None
+
+**Learning Mutual Modulation for Self-Supervised Cross-Modal Super-Resolution**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.09156
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -898,7 +995,60 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.08350
 - 代码/Code: None
 
+**PoserNet: Refining Relative Camera Poses Exploiting Object Detections**
 
+- 论文/Paper: http://arxiv.org/pdf/2207.09445
+- 代码/Code: https://github.com/IIT-PAVIS/PoserNet
+
+**Geometric Features Informed Multi-person Human-object Interaction Recognition in Videos**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.09425
+- 代码/Code: None
+
+**Deep Semantic Statistics Matching (D2SM) Denoising Network**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.09302
+- 代码/Code: None
+
+**3D Room Layout Estimation from a Cubemap of Panorama Image via Deep Manhattan Hough Transform**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.09291
+- 代码/Code: https://github.com/Starrah/DMH-Net
+
+**NDF: Neural Deformable Fields for Dynamic Human Modelling**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.09193
+- 代码/Code: None
+
+**Self-Supervision Can Be a Good Few-Shot Learner**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.09176
+- 代码/Code: https://github.com/bbbdylan/unisiam
+
+**ParticleSfM: Exploiting Dense Point Trajectories for Localizing Moving Cameras in the Wild**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.09137
+- 代码/Code: https://github.com/bytedance/particle-sfm.
+
+**MHR-Net: Multiple-Hypothesis Reconstruction of Non-Rigid Shapes from 2D Views**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.09086
+- 代码/Code: None
+
+**SelectionConv: Convolutional Neural Networks for Non-rectilinear Image Data**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.08979
+- 代码/Code: None
+
+**Prior-Guided Adversarial Initialization for Fast Adversarial Training**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.08859
+- 代码/Code: https://github.com/jiaxiaojunQAQ/FGSM-PGI.
+
+**Prior Knowledge Guided Unsupervised Domain Adaptation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.08877
+- 代码/Code: https://github.com/tsun/KUDA.
 
 [返回目录/back](#Contents)
 
