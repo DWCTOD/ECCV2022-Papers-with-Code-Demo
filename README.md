@@ -66,6 +66,7 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [轨迹预测/Trajectory Prediction](#TrajectoryPrediction)
 - [超分/Super-Resolution](#Super-Resolution)
 - [图像复原/Image Restoration](#ImageRestoration)
+- [图像增强/Image Enhancement](#ImageEnhancement)
 - [检索/Image Retrieval](#ImageRetrieval)
 - [其他/Other](#Other)
 
@@ -79,6 +80,16 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.04675
 - 代码/Code: https://github.com/ku21fan/COO-Comic-Onomatopoeia
+
+**Exploring Fine-Grained Audiovisual Categorization with the SSW60 Dataset**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10664
+- 代码/Code: https://github.com/visipedia/ssw60
+
+**BRACE: The Breakdancing Competition Dataset for Dance Motion Synthesis**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10120
+- 代码/Code: https://github.com/dmoltisanti/brace
 
 [返回目录/back](#Contents)
 
@@ -186,6 +197,31 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.10061
 - 代码/Code: https://github.com/junzhezhang/mesh-inversion
 
+**Generative Multiplane Images: Making a 2D GAN 3D-Aware**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10642
+- 代码/Code: https://github.com/apple/ml-gmpi
+
+**DeltaGAN: Towards Diverse Few-shot Image Generation with Sample-Specific Delta**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10271
+- 代码/Code: https://github.com/bcmi/deltagan-few-shot-image-generation
+
+**Injecting 3D Perception of Controllable NeRF-GAN into StyleGAN for Editable Portrait Image Synthesis**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10257
+- 代码/Code: https://github.com/jgkwak95/surf-gan
+
+**SGBANet: Semantic GAN and Balanced Attention Network for Arbitrarily Oriented Scene Text Recognition**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10256
+- 代码/Code: None
+
+**2D GANs Meet Unsupervised Single-view 3D Reconstruction**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10183
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="NeRF"></a> 
@@ -197,7 +233,15 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.09663
 - 代码/Code: https://github.com/jwcho5576/streamable_nf
 
+**Injecting 3D Perception of Controllable NeRF-GAN into StyleGAN for Editable Portrait Image Synthesis**
 
+- 论文/Paper: http://arxiv.org/pdf/2207.10257
+- 代码/Code: https://github.com/jgkwak95/surf-gan
+
+**AdaNeRF: Adaptive Sampling for Real-time Rendering of Neural Radiance Fields**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10312
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -285,6 +329,26 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.10040
 - 代码/Code: None
 
+**TinyViT: Fast Pretraining Distillation for Small Vision Transformers**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10666
+- 代码/Code: https://github.com/microsoft/cream
+
+**An Efficient Spatio-Temporal Pyramid Transformer for Action Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10448
+- 代码/Code: None
+
+**Weakly Supervised Object Localization via Transformer with Implicit Spatial Calibration**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10447
+- 代码/Code: https://github.com/164140757/scm
+
+**SeedFormer: Patch Seeds based Point Cloud Completion with Upsample Transformer**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10315
+- 代码/Code: https://github.com/hrzhou2/seedformer
+
 [返回目录/back](#Contents)
 
 <a name="Multimodal"></a> 
@@ -330,6 +394,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.08954
 - 代码/Code: https://github.com/xiaofeng94/VL-PLM
+
+**LocVTP: Video-Text Pre-training for Temporal Localization**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10362
+- 代码/Code: https://github.com/mengcaopku/locvtp
 
 [返回目录/back](#Contents)
 
@@ -437,6 +506,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.09656
 - 代码/Code: None
+
+**AutoAlignV2: Deformable Feature Aggregation for Dynamic Multi-Modal 3D Object Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10316
+- 代码/Code: https://github.com/zehuichen123/autoalignv2
 
 [返回目录/back](#Contents)
 
@@ -555,6 +629,21 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.09763
 - 代码/Code: https://github.com/saltoricristiano/gipso-sfouda
 
+**Online Domain Adaptation for Semantic Segmentation in Ever-Changing Conditions**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10667
+- 代码/Code: https://github.com/theo2021/onda
+
+**In Defense of Online Models for Video Instance Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10661
+- 代码/Code: https://github.com/wjf5203/vnext
+
+**Mining Relations among Cross-Frame Affinities for Video Semantic Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10436
+- 代码/Code: https://github.com/guoleisun/vss-mrcfa
+
 [返回目录/back](#Contents)
 
 <a name="MIS"></a> 
@@ -637,6 +726,17 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="FaceRecognition"></a> 
+
+## 人脸识别/Face Recognition
+
+**Controllable and Guided Face Synthesis for Unconstrained Face Recognition**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10180
+- 代码/Code: None
+
+[返回目录/back](#Contents)
+
 <a name="HumanPoseEstimation"></a> 
 
 ## 人体姿态估计/Human Pose Estimation
@@ -660,6 +760,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.07861
 - 代码/Code: https://github.com/yanjh97/TransGrasp
+
+**Pose for Everything: Towards Category-Agnostic Pose Estimation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10387
+- 代码/Code: https://github.com/luminxu/Pose-for-Everything
 
 [返回目录/back](#Contents)
 
@@ -772,7 +877,10 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.09084
 - 代码/Code: None
 
+**SeedFormer: Patch Seeds based Point Cloud Completion with Upsample Transformer**
 
+- 论文/Paper: http://arxiv.org/pdf/2207.10315
+- 代码/Code: https://github.com/hrzhou2/seedformer
 
 [返回目录/back](#Contents)
 
@@ -840,6 +948,16 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.09646
 - 代码/Code: None
 
+**Human Trajectory Prediction via Neural Social Physics**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10435
+- 代码/Code: https://github.com/realcrane/human-trajectory-prediction-via-neural-social-physics
+
+**D2-TPred: Discontinuous Dependency for Trajectory Prediction under Traffic Lights**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10398
+- 代码/Code: https://github.com/vtp-tl/d2-tpred
+
 [返回目录/back](#Contents)
 
 <a name="Super-Resolution"></a>
@@ -856,6 +974,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.09156
 - 代码/Code: None
 
+**CADyQ: Content-Aware Dynamic Quantization for Image Super-Resolution**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10345
+- 代码/Code: https://github.com/cheeun/cadyq
+
 [返回目录/back](#Contents)
 
 <a name="ImageRestoration"></a>
@@ -866,6 +989,17 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.03294
 - 代码/Code: https://github.com/zhaoyuzhi/D2HNet
+
+[返回目录/back](#Contents)
+
+<a name="ImageEnhancement"></a> 
+
+## 图像增强/Image Enhancement
+
+**Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10564
+- 代码/Code: https://github.com/jinyeying/night-enhancement
 
 [返回目录/back](#Contents)
 
@@ -1303,6 +1437,126 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.09510
 - 代码/Code: https://github.com/gyhandy/humanoid-vision-engine
+
+**Novel Class Discovery without Forgetting**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10659
+- 代码/Code: None
+
+**Approximate Differentiable Rendering with Algebraic Surfaces**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10606
+- 代码/Code: None
+
+**FADE: Fusing the Assets of Decoder and Encoder for Task-Agnostic Upsampling**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10392
+- 代码/Code: None
+
+**Error Compensation Framework for Flow-Guided Video Inpainting**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10391
+- 代码/Code: None
+
+**NSNet: Non-saliency Suppression Sampler for Efficient Video Recognition**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10388
+- 代码/Code: None
+
+**Temporal Saliency Query Network for Efficient Video Recognition**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10379
+- 代码/Code: None
+
+**UFO: Unified Feature Optimization**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10341
+- 代码/Code: None
+
+**OIMNet++: Prototypical Normalization and Localization-aware Learning for Person Search**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10320
+- 代码/Code: None
+
+**Towards Accurate Open-Set Recognition via Background-Class Regularization**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10287
+- 代码/Code: None
+
+**Grounding Visual Representations with Texts for Domain Generalization**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10285
+- 代码/Code: https://github.com/mswzeus/gvrt
+
+**SPIN: An Empirical Evaluation on Sharing Parameters of Isotropic Networks**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10237
+- 代码/Code: https://github.com/apple/ml-spin
+
+**MeshMAE: Masked Autoencoders for 3D Mesh Data Analysis**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10228
+- 代码/Code: None
+
+**On Label Granularity and Object Localization**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10225
+- 代码/Code: https://github.com/visipedia/inat_loc
+
+**Spotting Temporally Precise, Fine-Grained Events in Video**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10213
+- 代码/Code: None
+
+**Video Anomaly Detection by Solving Decoupled Spatio-Temporal Jigsaw Puzzles**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10172
+- 代码/Code: None
+
+**GOCA: Guided Online Cluster Assignment for Self-Supervised Video Representation Learning**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10158
+- 代码/Code: https://github.com/seleucia/goca
+
+**Visual Knowledge Tracing**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10157
+- 代码/Code: https://github.com/nkondapa/visualknowledgetracing
+
+**Tackling Long-Tailed Category Distribution Under Domain Shifts**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10150
+- 代码/Code: https://github.com/guxiao0822/lt-ds
+
+**Latent Discriminant deterministic Uncertainty**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10130
+- 代码/Code: https://github.com/ensta-u2is/ldu
+
+**Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10123
+- 代码/Code: https://github.com/zzh-tech/Animation-from-Blur.
+
+**Bitwidth-Adaptive Quantization-Aware Neural Network Training: A Meta-Learning Approach**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10188
+- 代码/Code: None
+
+**Structural Causal 3D Reconstruction**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10156
+- 代码/Code: None
+
+**AudioScopeV2: Audio-Visual Attention Architectures for Calibrated Open-Domain On-Screen Sound Separation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10141
+- 代码/Code: None
+
+**Continual Variational Autoencoder Learning via Online Cooperative Memorization**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10131
+- 代码/Code: https://github.com/dtuzi123/ovae
 
 [返回目录/back](#Contents)
 
