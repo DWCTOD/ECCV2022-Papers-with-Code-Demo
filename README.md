@@ -65,6 +65,8 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [车道线检测/Lane Detection](#LaneDetection)
 - [轨迹预测/Trajectory Prediction](#TrajectoryPrediction)
 - [超分/Super-Resolution](#Super-Resolution)
+- [图像去噪/Image Denoising](#ImageDenoising)
+- [图像去模糊/Image Deblurring](#ImageDeblurring)
 - [图像复原/Image Restoration](#ImageRestoration)
 - [图像增强/Image Enhancement](#ImageEnhancement)
 - [检索/Image Retrieval](#ImageRetrieval)
@@ -116,6 +118,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.09504
 - 代码/Code: https://github.com/kaihuatang/generalized-long-tailed-benchmarks.pytorch
+
+**RealFlow: EM-based Realistic Optical Flow Dataset Generation from Videos**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.11075
+- 代码/Code: https://github.com/megvii-research/RealFlow
 
 [返回目录/back](#Contents)
 
@@ -220,6 +227,16 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **2D GANs Meet Unsupervised Single-view 3D Reconstruction**
 
 - 论文/Paper: http://arxiv.org/pdf/2207.10183
+- 代码/Code: None
+
+**InfiniteNature-Zero: Learning Perpetual View Generation of Natural Scenes from Single Images**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.11148
+- 代码/Code: None
+
+**Auto-regressive Image Synthesis with Integrated Quantization**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10776
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -349,6 +366,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.10315
 - 代码/Code: https://github.com/hrzhou2/seedformer
 
+**Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10866
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="Multimodal"></a> 
@@ -400,6 +422,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.10362
 - 代码/Code: https://github.com/mengcaopku/locvtp
 
+**Inductive and Transductive Few-Shot Video Classification via Appearance and Temporal Alignments**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10785
+- 代码/Code: https://github.com/VinAIResearch/fsvc-ata
+
 [返回目录/back](#Contents)
 
 <a name="ContrastiveLearning"></a> 
@@ -439,6 +466,16 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Fast-MoCo: Boost Momentum-based Contrastive Learning with Combinatorial Patches**
 
 - 论文/Paper: http://arxiv.org/pdf/2207.08220
+- 代码/Code: None
+
+**Decoupled Adversarial Contrastive Learning for Self-supervised Adversarial Robustness**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10899
+- 代码/Code: https://github.com/pantheon5100/DeACL.
+
+**Bi-directional Contrastive Learning for Domain Adaptive Semantic Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10892
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -511,6 +548,16 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.10316
 - 代码/Code: https://github.com/zehuichen123/autoalignv2
+
+**Rethinking Few-Shot Object Detection on a Multi-Domain Benchmark**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.11169
+- 代码/Code: https://github.com/amazon-research/few-shot-object-detection-benchmark.
+
+**DEVIANT: Depth EquiVarIAnt NeTwork for Monocular 3D Object Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10758
+- 代码/Code: https://github.com/abhi1kumar/DEVIANT
 
 [返回目录/back](#Contents)
 
@@ -644,6 +691,21 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.10436
 - 代码/Code: https://github.com/guoleisun/vss-mrcfa
 
+**Long-tailed Instance Segmentation using Gumbel Optimized Loss**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10936
+- 代码/Code: https://github.com/kostas1515/GOL
+
+**Bi-directional Contrastive Learning for Domain Adaptive Semantic Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10892
+- 代码/Code: None
+
+**Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10866
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="MIS"></a> 
@@ -771,6 +833,16 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: None
 - 代码/Code: https://github.com/wucunlin/C3P
 
+**3D Interacting Hand Pose Estimation by Hand De-occlusion and Removal**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.11061
+- 代码/Code: https://github.com/MengHao666/HDR.
+
+**Faster VoxelPose: Real-time 3D Human Pose Estimation by Orthographic Projection**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10955
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="FaceAnti-Spoofing"></a> 
@@ -781,6 +853,17 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.10015
 - 代码/Code: None
+
+[返回目录/back](#Contents)
+
+<a name="FacialAttributeRecognition"></a> 
+
+## 人脸属性识别/Facial Attribute Recognition
+
+**FairGRAPE: Fairness-aware GRAdient Pruning mEthod for Face Attribute Classification**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10888
+- 代码/Code: https://github.com/Bernardo1998/FairGRAPE
 
 [返回目录/back](#Contents)
 
@@ -983,6 +1066,33 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.10345
 - 代码/Code: https://github.com/cheeun/cadyq
+
+**Towards Interpretable Video Super-Resolution via Alternating Optimization**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10765
+- 代码/Code: None
+
+[返回目录/back](#Contents)
+
+<a name="ImageDenoising"></a>
+
+## 图像去噪/Image Denoising
+
+**Optimizing Image Compression via Joint Learning with Denoising**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10869
+- 代码/Code: https://github.com/felixcheng97/DenoiseCompression
+
+[返回目录/back](#Contents)
+
+<a name="ImageDeblurring"></a>
+
+## 图像去模糊/Image Deblurring
+
+**Spatio-Temporal Deformable Attention Network for Video Deblurring**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10852
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -1562,6 +1672,49 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.10131
 - 代码/Code: https://github.com/dtuzi123/ovae
+
+**Panoptic Scene Graph Generation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.11247
+- 代码/Code: https://github.com/Jingkang50/OpenPSG
+
+**Few-Shot Class-Incremental Learning via Entropy-Regularized Data-Free Replay**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.11213
+- 代码/Code: None
+
+**POP: Mining POtential Performance of new fashion products via webly cross-modal query expansion**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.11001
+- 代码/Code: https://github.com/HumaticsLAB/POP-Mining-POtential-Performance
+
+**Few-shot Object Counting and Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10988
+- 代码/Code: https://github.com/VinAIResearch/Counting-DETR
+
+**Dynamic Local Aggregation Network with Adaptive Clusterer for Anomaly Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10948
+- 代码/Code: https://github.com/Beyond-Zw/DLAN-AC.
+
+**My View is the Best View: Procedure Learning from Egocentric Videos**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10883
+- 代码/Code: https://github.com/Sid2697/EgoProceL-egocentric-procedure-learning
+
+**Prototype-Guided Continual Adaptation for Class-Incremental Unsupervised Domain Adaptation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10856
+- 代码/Code: https://github.com/Hongbin98/ProCA.git
+
+**MeshLoc: Mesh-Based Visual Localization**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.10762
+- 代码/Code: None
+
+
+#### 
 
 [返回目录/back](#Contents)
 
