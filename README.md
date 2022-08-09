@@ -766,6 +766,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.10387
 - 代码/Code: https://github.com/luminxu/Pose-for-Everything
 
+**C3P: Cross-domain Pose Prior Propagation for Weakly Supervised 3D Human Pose Estimation**
+
+- 论文/Paper: None
+- 代码/Code: https://github.com/wucunlin/C3P
+
 [返回目录/back](#Contents)
 
 <a name="FaceAnti-Spoofing"></a> 
