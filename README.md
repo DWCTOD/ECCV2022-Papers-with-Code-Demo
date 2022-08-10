@@ -54,6 +54,7 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [人脸表情识别/Facial Expression Recognition](#FacialExpressionRecognition)
 - [人脸属性识别/Facial Attribute Recognition](#FacialAttributeRecognition)
 - [人脸编辑/Facial Editing](#FacialEditing)
+- [人脸相关 / Face](#Face)
 - [人体姿态估计/Human Pose Estimation](#HumanPoseEstimation)
 - [Human Reconstruction](#HumanReconstruction)
 - [Relighting](#Relighting)
@@ -92,6 +93,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.10120
 - 代码/Code: https://github.com/dmoltisanti/brace
+
+**CelebV-HQ: A Large-Scale Video Facial Attributes Dataset**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.12393
+- 代码/Code: https://github.com/CelebV-HQ/CelebV-HQ
 
 [返回目录/back](#Contents)
 
@@ -260,6 +266,16 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.10312
 - 代码/Code: None
 
+**PS-NeRF: Neural Inverse Rendering for Multi-view Photometric Stereo**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.11406
+- 代码/Code: None
+
+**Neural-Sim: Learning to Generate Training Data with NeRF**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.11368
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="VisualTransformer"></a> 
@@ -371,6 +387,21 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.10866
 - 代码/Code: None
 
+**IGFormer: Interaction Graph Transformer for Skeleton-based Human Interaction Recognition**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.12100
+- 代码/Code: None
+
+**3D Siamese Transformer Network for Single Object Tracking on Point Clouds**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.11995
+- 代码/Code: None
+
+**Reference-based Image Super-Resolution with Deformable Attention Transformer**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.11938
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="Multimodal"></a> 
@@ -426,6 +457,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.10785
 - 代码/Code: https://github.com/VinAIResearch/fsvc-ata
+
+**Cross-Modal 3D Shape Generation and Manipulation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.11795
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -559,6 +595,26 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.10758
 - 代码/Code: https://github.com/abhi1kumar/DEVIANT
 
+**Active Learning Strategies for Weakly-supervised Object Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.12112
+- 代码/Code: https://github.com/huyvvo/BiB.
+
+**W2N:Switching From Weak Supervision to Noisy Supervision for Object Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.12104
+- 代码/Code: https://github.com/1170300714/w2n_wsod.
+
+**Salient Object Detection for Point Clouds**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.11889
+- 代码/Code: None
+
+**UC-OWOD: Unknown-Classified Open World Object Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.11455
+- 代码/Code: https://github.com/JohnWuzh/UC-OWOD
+
 [返回目录/back](#Contents)
 
 <a name="ObjectTracking"></a> 
@@ -594,6 +650,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.09603
 - 代码/Code: https://github.com/Little-Podi/AiATrack
+
+**3D Siamese Transformer Network for Single Object Tracking on Point Clouds**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.11995
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -706,6 +767,16 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.10866
 - 代码/Code: None
 
+**Self-Support Few-Shot Semantic Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.11549
+- 代码/Code: https://github.com/fanq15/SSP
+
+**Active Pointly-Supervised Instance Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.11493
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="MIS"></a> 
@@ -758,6 +829,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.06580
 - 代码/Code: https://github.com/sauradip/TAGS
+
+**Weakly-Supervised Temporal Action Detection for Fine-Grained Videos with Hierarchical Atomic Actions**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.11805
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -867,6 +943,22 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="Face"></a> 
+
+## 人脸相关 / Face
+
+**On Mitigating Hard Clusters for Face Clustering**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.11895
+- 代码/Code: https://github.com/echoanran/On-Mitigating-Hard-Clusters.
+
+**Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.11770
+- 代码/Code: None
+
+[返回目录/back](#Contents)
+
 <a name="HumanReconstruction"></a> 
 
 ## Human Reconstruction
@@ -970,6 +1062,21 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.10315
 - 代码/Code: https://github.com/hrzhou2/seedformer
 
+**Dynamic 3D Scene Analysis by Point Cloud Accumulation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.12394
+- 代码/Code: None
+
+**3D Siamese Transformer Network for Single Object Tracking on Point Clouds**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.11995
+- 代码/Code: None
+
+**Salient Object Detection for Point Clouds**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.11889
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 
@@ -1003,6 +1110,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.04680
 - 代码/Code: https://github.com/SenZHANG-GitHub/ekf-imu-depth
+
+**RA-Depth: Resolution Adaptive Self-Supervised Monocular Depth Estimation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.11984
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -1070,6 +1182,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Towards Interpretable Video Super-Resolution via Alternating Optimization**
 
 - 论文/Paper: http://arxiv.org/pdf/2207.10765
+- 代码/Code: None
+
+**Reference-based Image Super-Resolution with Deformable Attention Transformer**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.11938
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -1713,8 +1830,97 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.10762
 - 代码/Code: None
 
+**MemSAC: Memory Augmented Sample Consistency for Large Scale Domain Adaptation**
 
-#### 
+- 论文/Paper: http://arxiv.org/pdf/2207.12389
+- 代码/Code: None
+
+**Deforming Radiance Fields with Cages**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.12298
+- 代码/Code: None
+
+**Equivariance and Invariance Inductive Bias for Learning from Insufficient Data**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.12258
+- 代码/Code: https://github.com/Wangt-CN/EqInv
+
+**Black-box Few-shot Knowledge Distillation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.12106
+- 代码/Code: https://github.com/nphdang/FS-BBT
+
+**Balancing Stability and Plasticity through Advanced Null Space in Continual Learning**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.12061
+- 代码/Code: None
+
+**Optimal Boxes: Boosting End-to-End Scene Text Recognition by Adjusting Annotated Bounding Boxes via Reinforcement Learning**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.11934
+- 代码/Code: None
+
+**NeuMesh: Learning Disentangled Neural Mesh-based Implicit Field for Geometry and Texture Editing**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.11911
+- 代码/Code: None
+
+**Domain Adaptive Person Search**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.11898
+- 代码/Code: https://github.com/caposerenity/DAPS.
+
+**VizWiz-FewShot: Locating Objects in Images Taken by People With Visual Impairments**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.11810
+- 代码/Code: None
+
+**Label-Guided Auxiliary Training Improves 3D Object Detector**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.11753
+- 代码/Code: None
+
+**Combining Internal and External Constraints for Unrolling Shutter in Videos**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.11725
+- 代码/Code: None
+
+**TIPS: Text-Induced Pose Synthesis**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.11718
+- 代码/Code: None
+
+**Improving Test-Time Adaptation via Shift-agnostic Weight Regularization and Nearest Source Prototypes**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.11707
+- 代码/Code: None
+
+**Learning Graph Neural Networks for Image Style Transfer**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.11681
+- 代码/Code: None
+
+**Contrastive Monotonic Pixel-Level Modulation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.11517
+- 代码/Code: https://github.com/lukun199/MonoPix.
+
+**CompNVS: Novel View Synthesis with Scene Completion**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.11467
+- 代码/Code: None
+
+**When Counting Meets HMER: Counting-Aware Network for Handwritten Mathematical Expression Recognition**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.11463
+- 代码/Code: https://github.com/LBH1024/CAN.
+
+**Meta Spatio-Temporal Debiasing for Video Scene Graph Generation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.11441
+- 代码/Code: None
+
+
 
 [返回目录/back](#Contents)
 
