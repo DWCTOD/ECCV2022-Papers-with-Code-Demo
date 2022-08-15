@@ -250,6 +250,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.10776
 - 代码/Code: None
 
+**Compositional Human-Scene Interaction Synthesis with Semantic Control**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.12824
+- 代码/Code: https://github.com/zkf1997/coins
+
 [返回目录/back](#Contents)
 
 <a name="NeRF"></a> 
@@ -468,6 +473,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.11795
 - 代码/Code: None
 
+**Learning Visual Representation from Modality-Shared Contrastive Language-Image Pre-training**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.12661
+- 代码/Code: https://github.com/hxyou/msclip
+
 [返回目录/back](#Contents)
 
 <a name="ContrastiveLearning"></a> 
@@ -620,6 +630,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.11455
 - 代码/Code: https://github.com/JohnWuzh/UC-OWOD
 
+**Monocular 3D Object Detection with Depth from Motion**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.12988
+- 代码/Code: https://github.com/tai-wang/depth-from-motion
+
 [返回目录/back](#Contents)
 
 <a name="ObjectTracking"></a> 
@@ -659,6 +674,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **3D Siamese Transformer Network for Single Object Tracking on Point Clouds**
 
 - 论文/Paper: http://arxiv.org/pdf/2207.11995
+- 代码/Code: None
+
+**Tracking Every Thing in the Wild**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.12978
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -1025,6 +1045,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.06694
 - 代码/Code: https://github.com/hikopensource/davar-lab-ocr
+
+**Contextual Text Block Detection towards Scene Text Understanding**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.12955
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -1925,7 +1950,50 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.11441
 - 代码/Code: None
 
+**3D Shape Sequence of Human Comparison and Classification using Current and Varifolds**
 
+- 论文/Paper: http://arxiv.org/pdf/2207.12485
+- 代码/Code: https://github.com/cristal-3dsam/humancomparisonvarifolds
+
+**NewsStories: Illustrating articles with visual summaries**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.13061
+- 代码/Code: https://github.com/newsstoriesdata/newsstories.github.io
+
+**Efficient One Pass Self-distillation with Zipf's Label Smoothing**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.12980
+- 代码/Code: https://github.com/megvii-research/zipfls
+
+**AlignSDF: Pose-Aligned Signed Distance Fields for Hand-Object Reconstruction**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.12909
+- 代码/Code: None
+
+**Static and Dynamic Concepts for Self-supervised Video Representation Learning**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.12795
+- 代码/Code: None
+
+**Learning Hierarchy Aware Features for Reducing Mistake Severity**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.12646
+- 代码/Code: https://github.com/07agarg/haf
+
+**Translating a Visual LEGO Manual to a Machine-Executable Plan**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.12572
+- 代码/Code: None
+
+**Semi-Leak: Membership Inference Attacks Against Semi-supervised Learning**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.12535
+- 代码/Code: https://github.com/xinleihe/semi-leak
+
+**Trainability Preserving Neural Structured Pruning**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.12534
+- 代码/Code: https://github.com/mingsun-tse/tpp
 
 [返回目录/back](#Contents)
 
