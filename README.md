@@ -255,6 +255,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.12824
 - 代码/Code: https://github.com/zkf1997/coins
 
+**Generator Knows What Discriminator Should Learn in Unconditional GANs**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.13320
+- 代码/Code: https://github.com/naver-ai/GGDR
+
 [返回目录/back](#Contents)
 
 <a name="NeRF"></a> 
@@ -410,6 +415,16 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Reference-based Image Super-Resolution with Deformable Attention Transformer**
 
 - 论文/Paper: http://arxiv.org/pdf/2207.11938
+- 代码/Code: None
+
+**SiRi: A Simple Selective Retraining Mechanism for Transformer-based Visual Grounding**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.13325
+- 代码/Code: None
+
+**Online Continual Learning with Contrastive Vision Transformer**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.13516
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -944,6 +959,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.10955
 - 代码/Code: None
 
+**ShAPO: Implicit Representations for Multi-Object Shape, Appearance, and Pose Optimization**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.13691
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="FaceAnti-Spoofing"></a> 
@@ -1239,6 +1259,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Spatio-Temporal Deformable Attention Network for Video Deblurring**
 
 - 论文/Paper: http://arxiv.org/pdf/2207.10852
+- 代码/Code: None
+
+**Efficient Video Deblurring Guided by Motion Magnitude**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.13374
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -1994,6 +2019,61 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.12534
 - 代码/Code: https://github.com/mingsun-tse/tpp
+
+**Shift-tolerant Perceptual Similarity Metric**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.13686
+- 代码/Code: http://github.com/abhijay9/ShiftTolerant-LPIPS/
+
+**Abstracting Sketches through Simple Primitives**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.13543
+- 代码/Code: https://github.com/ExplainableML/sketch-primitives.
+
+**AutoTransition: Learning to Recommend Video Transition Effects**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.13479
+- 代码/Code: https://github.com/acherstyx/AutoTransition
+
+**Hardly Perceptible Trojan Attack against Neural Networks with Bit Flips**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.13417
+- 代码/Code: https://github.com/jiawangbai/HPT
+
+**Identifying Hard Noise in Long-Tailed Sample Distribution**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.13378
+- 代码/Code: https://github.com/yxymessi/H2E-Framework
+
+**One-Trimap Video Matting**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.13353
+- 代码/Code: https://github.com/Hongje/OTVM
+
+**PointFix: Learning to Fix Domain Bias for Robust Online Stereo Adaptation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.13340
+- 代码/Code: None
+
+**End-to-end Graph-constrained Vectorized Floorplan Generation with Panoptic Refinement**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.13268
+- 代码/Code: None
+
+**Spatiotemporal Self-attention Modeling with Temporal Patch Shift for Action Recognition**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.13259
+- 代码/Code: https://github.com/MartinXM/TPS
+
+**Concurrent Subsidiary Supervision for Unsupervised Source-Free Domain Adaptation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.13247
+- 代码/Code: None
+
+**LGV: Boosting Adversarial Example Transferability from Large Geometric Vicinity**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.13129
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
