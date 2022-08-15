@@ -136,6 +136,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## GAN
 
+**Ultra-high-resolution unpaired stain transformation via Kernelized Instance Normalization**
+
+- 论文/Paper: Waiting for official release
+- 代码/Code: https://github.com/Kaminyou/URUST
+
 **Accelerating Score-based Generative Models with Preconditioned Diffusion Sampling**
 
 - 论文/Paper: http://arxiv.org/abs/2207.02196
