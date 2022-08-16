@@ -427,6 +427,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.13516
 - 代码/Code: None
 
+**Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.13820
+- 代码/Code: https://github.com/postech-ami/FastMETRO
+
 [返回目录/back](#Contents)
 
 <a name="Multimodal"></a> 
@@ -696,6 +701,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.12978
 - 代码/Code: None
 
+**AvatarPoser: Articulated Full-Body Pose Tracking from Sparse Motion Sensing**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.13784
+- 代码/Code: https://github.com/eth-siplab/AvatarPoser
+
 [返回目录/back](#Contents)
 
 <a name="Segmentation"></a> 
@@ -817,6 +827,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.11493
 - 代码/Code: None
 
+**Video Mask Transfiner for High-Quality Video Instance Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.14012
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="MIS"></a> 
@@ -901,6 +916,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.07361
 - 代码/Code: https://github.com/MediaBrain-SJTU/RegAD
+
+**Look at Adjacent Frames: Video Anomaly Detection without Offline Training**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.13798
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -1018,6 +1038,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.09835
 - 代码/Code: https://github.com/ShenhanQian/UNIF
 
+**The One Where They Reconstructed 3D Humans and Environments in TV Shows**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.14279
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="Relighting"></a> 
@@ -1126,6 +1151,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.11889
 - 代码/Code: None
+
+**MonteBoxFinder: Detecting and Filtering Primitives to Fit a Noisy Point Cloud**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.14268
+- 代码/Code: https://github.com/MichaelRamamonjisoa/MonteBoxFinder
 
 [返回目录/back](#Contents)
 
@@ -2073,6 +2103,36 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **LGV: Boosting Adversarial Example Transferability from Large Geometric Vicinity**
 
 - 论文/Paper: http://arxiv.org/pdf/2207.13129
+- 代码/Code: None
+
+**Initialization and Alignment for Adversarial Texture Optimization**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.14289
+- 代码/Code: None
+
+**Depth Field Networks for Generalizable Multi-view Scene Representation**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.14287
+- 代码/Code: None
+
+**Mining Cross-Person Cues for Body-Part Interactiveness Learning in HOI Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.14192
+- 代码/Code: https://github.com/enlighten0707/Body-Part-Map-for-Interactiveness.
+
+**Neural Strands: Learning Hair Geometry and Appearance from Multi-View Images**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.14067
+- 代码/Code: None
+
+**Break and Make: Interactive Structural Understanding Using LEGO Bricks**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.13738
+- 代码/Code: https://github.com/aaronwalsman/ltron.
+
+**A Repulsive Force Unit for Garment Collision Handling in Neural Networks**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.13871
 - 代码/Code: None
 
 [返回目录/back](#Contents)
