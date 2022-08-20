@@ -99,6 +99,13 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.12393
 - 代码/Code: https://github.com/CelebV-HQ/CelebV-HQ
 
+**Ithaca365: Dataset and Driving Perception under Repeated and Challenging Weather Conditions**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.01166
+- 代码/Code: None
+
+
+
 [返回目录/back](#Contents)
 
 <a name="ImageClassification"></a> 
@@ -260,6 +267,16 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.13320
 - 代码/Code: https://github.com/naver-ai/GGDR
 
+**StyleLight: HDR Panorama Generation for Lighting Estimation and Editing**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.14811
+- 代码/Code: https://github.com/Wanggcong/StyleLight
+
+**Cross Attention Based Style Distribution for Controllable Person Image Synthesis**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.00712
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="NeRF"></a> 
@@ -290,6 +307,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.11368
 - 代码/Code: None
+
+**Neural Density-Distance Fields**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.14455
+- 代码/Code: https://github.com/ueda0319/neddf
 
 [返回目录/back](#Contents)
 
@@ -431,6 +453,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.13820
 - 代码/Code: https://github.com/postech-ami/FastMETRO
+
+**Toward Understanding WordArt: Corner-Guided Transformer for Scene Text Recognition**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.00438
+- 代码/Code: https://github.com/xdxie/WordArt
 
 [返回目录/back](#Contents)
 
@@ -832,6 +859,23 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.14012
 - 代码/Code: None
 
+**Doubly Deformable Aggregation of Covariance Matrices for Few-shot Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.00306
+- 代码/Code: None
+
+**Per-Clip Video Object Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.01924
+- 代码/Code: https://github.com/pkyong95/PCVOS
+
+**Cluster-to-adapt: Few Shot Domain Adaptation for Semantic Segmentation across Disjoint Labels**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.02804
+- 代码/Code: None
+
+
+
 [返回目录/back](#Contents)
 
 <a name="MIS"></a> 
@@ -905,6 +949,13 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.09767
 - 代码/Code: https://github.com/canbaoburen/CoDT
+
+**Combined CNN Transformer Encoder for Enhanced Fine-grained Human Action Recognition**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.01897
+- 代码/Code: None
+
+
 
 [返回目录/back](#Contents)
 
@@ -983,6 +1034,26 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.13691
 - 代码/Code: None
+
+**RBP-Pose: Residual Bounding Box Projection for Category-Level Pose Estimation**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.00237
+- 代码/Code: None
+
+**Neural Correspondence Field for Object Pose Estimation**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.00113
+- 代码/Code: None
+
+**Explicit Occlusion Reasoning for Multi-person 3D Human Pose Estimation**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.00090
+- 代码/Code: None
+
+**CLIFF: Carrying Location Information in Full Frames into Human Pose and Shape Estimation**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.00571
+- 代码/Code: https://github.com/huawei-noah/noah-research/tree/master/CLIFF
 
 [返回目录/back](#Contents)
 
@@ -1173,7 +1244,12 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **What Matters for 3D Scene Flow Network**
 
 - 论文/Paper: http://arxiv.org/pdf/2207.09143
-- 代码/Code: https://github.com/IRMVLab/3DFlow.
+- 代码/Code: https://github.com/IRMVLab/3DFlow
+
+**Deep 360$^\circ$ Optical Flow Estimation Based on Multi-Projection Fusion**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.00776
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -2134,6 +2210,96 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.13871
 - 代码/Code: None
+
+**Minimal Neural Atlas: Parameterizing Complex Surfaces with Minimal Charts and Distortion**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.14782
+- 代码/Code: https://github.com/low5545/minimal-neural-atlas
+
+**Can Shuffling Video Benefit Temporal Bias Problem: A Novel Training Framework for Temporal Grounding**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.14698
+- 代码/Code: https://github.com/haojc/ShufflingVideosForTSG.
+
+**AlphaVC: High-Performance and Efficient Learned Video Compression**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.14678
+- 代码/Code: None
+
+**WISE: Whitebox Image Stylization by Example-based Learning**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.14606
+- 代码/Code: None
+
+**Centrality and Consistency: Two-Stage Clean Samples Identification for Learning with Instance-Dependent Noisy Labels**
+
+- 论文/Paper: http://arxiv.org/pdf/2207.14476
+- 代码/Code: None
+
+**Video Question Answering with Iterative Video-Text Co-Tokenization**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.00934
+- 代码/Code: None
+
+**S$^2$Contact: Graph-based Network for 3D Hand-Object Contact Estimation with Semi-Supervised Learning**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.00874
+- 代码/Code: None
+
+**Skeleton-free Pose Transfer for Stylized 3D Characters**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.00790
+- 代码/Code: None
+
+**Improving Fine-Grained Visual Recognition in Low Data Regimes via Self-Boosting Attention Mechanism**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.00617
+- 代码/Code: https://github.com/GANPerf/SAM
+
+**SdAE: Self-distillated Masked Autoencoder**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.00449
+- 代码/Code: https://github.com/AbrahamYabo/SdAE.
+
+**Out-of-Distribution Detection with Semantic Mismatch under Masking**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.00446
+- 代码/Code: https://github.com/cure-lab/MOODCat
+
+**Skeleton-Parted Graph Scattering Networks for 3D Human Motion Prediction**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.00368
+- 代码/Code: None
+
+**Revisiting the Critical Factors of Augmentation-Invariant Representation Learning**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.00275
+- 代码/Code: None
+
+**Few-shot Single-view 3D Reconstruction with Memory Prior Contrastive Network**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.00183
+- 代码/Code: None
+
+**Few-Shot Class-Incremental Learning from an Open-Set Perspective**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.00147
+- 代码/Code: None
+
+**DAS: Densely-Anchored Sampling for Deep Metric Learning**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.00119
+- 代码/Code: https://github.com/lizhaoliu-Lec/DAS
+
+**Fast Two-step Blind Optical Aberration Correction**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.00950
+- 代码/Code: None
+
+**Negative Frames Matter in Egocentric Visual Query 2D Localization**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.01949
+- 代码/Code: https://github.com/facebookresearch/vq2d_cvpr
 
 [返回目录/back](#Contents)
 
