@@ -104,7 +104,10 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2208.01166
 - 代码/Code: None
 
+**Fine-Grained Egocentric Hand-Object Segmentation: Dataset, Model, and Applications**
 
+- 论文/Paper: http://arxiv.org/pdf/2208.03826
+- 代码/Code: https://github.com/owenzlz/EgoHOS
 
 [返回目录/back](#Contents)
 
@@ -275,6 +278,16 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Cross Attention Based Style Distribution for Controllable Person Image Synthesis**
 
 - 论文/Paper: http://arxiv.org/pdf/2208.00712
+- 代码/Code: None
+
+**SKDCGN: Source-free Knowledge Distillation of Counterfactual Generative Networks using cGANs**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.04226
+- 代码/Code: https://github.com/ambekarsameer96/SKDCGN
+
+**Hierarchical Semantic Regularization of Latent Spaces in StyleGANs**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.03764
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -459,6 +472,18 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2208.00438
 - 代码/Code: https://github.com/xdxie/WordArt
 
+**TransMatting: Enhancing Transparent Objects Matting with Transformers**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.03007
+- 代码/Code: https://github.com/AceCHQ/TransMatting
+
+**Ghost-free High Dynamic Range Imaging with Context-aware Transformer**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.05114
+- 代码/Code: https://github.com/megvii-research/hdr-transformer
+
+
+
 [返回目录/back](#Contents)
 
 <a name="Multimodal"></a> 
@@ -524,6 +549,16 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.12661
 - 代码/Code: https://github.com/hxyou/msclip
+
+**Frozen CLIP Models are Efficient Video Learners**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.03550
+- 代码/Code: https://github.com/OpenGVLab/efficient-video-recognition
+
+**Consistency-based Self-supervised Learning for Temporal Anomaly Localization**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.05251
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -682,6 +717,16 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.12988
 - 代码/Code: https://github.com/tai-wang/depth-from-motion
 
+**Exploring Resolution and Degradation Clues as Self-supervised Signal for Low Quality Object Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.03062
+- 代码/Code: https://github.com/cuiziteng/ECCV_AERIS
+
+**Graph R-CNN: Towards Accurate 3D Object Detection with Semantic-Decorated Local Graph**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.03624
+- 代码/Code: https://github.com/Nightmare-n/GraphRCNN
+
 [返回目录/back](#Contents)
 
 <a name="ObjectTracking"></a> 
@@ -732,6 +777,16 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.13784
 - 代码/Code: https://github.com/eth-siplab/AvatarPoser
+
+**Robust Multi-Object Tracking by Marginal Inference**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.03727
+- 代码/Code: None
+
+**Towards Sequence-Level Training for Visual Tracking**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.05810
+- 代码/Code: https://github.com/byminji/SLTtrack
 
 [返回目录/back](#Contents)
 
@@ -874,7 +929,15 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2208.02804
 - 代码/Code: None
 
+**Generalizable Medical Image Segmentation via Random Amplitude Mixup and Domain-Specific Image Restoration**
 
+- 论文/Paper: http://arxiv.org/pdf/2208.03901
+- 代码/Code: None
+
+**Fine-Grained Egocentric Hand-Object Segmentation: Dataset, Model, and Applications**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.03826
+- 代码/Code: https://github.com/owenzlz/EgoHOS
 
 [返回目录/back](#Contents)
 
@@ -934,6 +997,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.11805
 - 代码/Code: None
 
+**HaloAE: An HaloNet based Local Transformer Auto-Encoder for Anomaly Detection and Localization**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.03486
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="ActionRecognition"></a> 
@@ -955,7 +1023,10 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2208.01897
 - 代码/Code: None
 
+**PSUMNet: Unified Modality Part Streams are All You Need for Efficient Pose-based Action Recognition**
 
+- 论文/Paper: http://arxiv.org/pdf/2208.05775
+- 代码/Code: https://github.com/skelemoa/psumnet
 
 [返回目录/back](#Contents)
 
@@ -1167,6 +1238,13 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.12955
 - 代码/Code: None
 
+**GLASS: Global to Local Attention for Scene-Text Spotting**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.03364
+- 代码/Code: None
+
+
+
 [返回目录/back](#Contents)
 
 <a name="PointCloud"></a>
@@ -1345,6 +1423,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.11938
 - 代码/Code: None
 
+**Learning Spatiotemporal Frequency-Transformer for Compressed Video Super-Resolution**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.03012
+- 代码/Code: https://github.com/researchmm/FTVSR
+
 [返回目录/back](#Contents)
 
 <a name="ImageDenoising"></a>
@@ -1371,6 +1454,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.13374
 - 代码/Code: None
+
+**Learning Degradation Representations for Image Deblurring**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.05244
+- 代码/Code: https://github.com/dasongli1/learning_degradation
 
 [返回目录/back](#Contents)
 
@@ -1404,6 +1492,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.09721
 - 代码/Code: https://github.com/conghuihu/ucdir
+
+**A Sketch Is Worth a Thousand Words: Image Retrieval with Text and Sketch**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.03354
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -2300,6 +2393,81 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2208.01949
 - 代码/Code: https://github.com/facebookresearch/vq2d_cvpr
+
+**Neighborhood Collective Estimation for Noisy Label Identification and Correction**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.03207
+- 代码/Code: None
+
+**PlaneFormers: From Sparse View Planes to 3D Reconstruction**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.04307
+- 代码/Code: None
+
+**SLiDE: Self-supervised LiDAR De-snowing through Reconstruction Difficulty**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.04043
+- 代码/Code: None
+
+**Domain Randomization-Enhanced Depth Simulation and Restoration for Perceiving and Grasping Specular and Transparent Objects**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.03792
+- 代码/Code: https://github.com/PKU-EPIC/DREDS
+
+**Class-Incremental Learning with Cross-Space Clustering and Controlled Transfer**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.03767
+- 代码/Code: None
+
+**Learning Omnidirectional Flow in 360-degree Video via Siamese Representation**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.03620
+- 代码/Code: None
+
+**Inpainting at Modern Camera Resolution by Guided PatchMatch with Auto-Curation**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.03552
+- 代码/Code: None
+
+**Contrastive Positive Mining for Unsupervised 3D Action Representation Learning**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.03497
+- 代码/Code: None
+
+**Speaker-adaptive Lip Reading with User-dependent Padding**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.04498
+- 代码/Code: None
+
+**Contrast-Phys: Unsupervised Video-based Remote Physiological Measurement via Spatiotemporal Contrast**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.04378
+- 代码/Code: https://github.com/zhaodongsun/contrast-phys
+
+**Rethinking Robust Representation Learning Under Fine-grained Noisy Faces**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.04352
+- 代码/Code: None
+
+**RDA: Reciprocal Distribution Alignment for Robust SSL**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.04619
+- 代码/Code: https://github.com/njuyued/rda4robustssl
+
+**RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.05963
+- 代码/Code: None
+
+**PointTree: Transformation-Robust Point Cloud Encoder with Relaxed K-D Trees**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.05962
+- 代码/Code: https://github.com/immortalco/pointtree
+
+**MixSKD: Self-Knowledge Distillation from Mixup for Image Recognition**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.05768
+- 代码/Code: https://github.com/winycg/self-kd-lib
 
 [返回目录/back](#Contents)
 
