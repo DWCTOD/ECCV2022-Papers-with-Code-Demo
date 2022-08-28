@@ -155,7 +155,7 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 **Ultra-high-resolution unpaired stain transformation via Kernelized Instance Normalization**
 
-- 论文/Paper: Waiting for official release
+- 论文/Paper: https://arxiv.org/pdf/2208.10730v1.pdf
 - 代码/Code: https://github.com/Kaminyou/URUST
 
 **Accelerating Score-based Generative Models with Preconditioned Diffusion Sampling**
@@ -220,7 +220,7 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Single Stage Virtual Try-on via Deformable Attention Flows**
 
 - 论文/Paper: http://arxiv.org/pdf/2207.09161
-- 代码/Code: None
+- 代码/Code: https://github.com/OFA-Sys/DAFlow
 
 **Structure-aware Editable Morphable Model for 3D Facial Detail Animation and Manipulation**
 
@@ -285,7 +285,7 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Cross Attention Based Style Distribution for Controllable Person Image Synthesis**
 
 - 论文/Paper: http://arxiv.org/pdf/2208.00712
-- 代码/Code: None
+- 代码/Code: https://github.com/xyzhouo/casd
 
 **SKDCGN: Source-free Knowledge Distillation of Counterfactual Generative Networks using cGANs**
 
@@ -305,7 +305,7 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Paint2Pix: Interactive Painting based Progressive Image Synthesis and Editing**
 
 - 论文/Paper: http://arxiv.org/pdf/2208.08092
-- 代码/Code: None
+- 代码/Code: https://github.com/1jsingh/paint2pix
 
 **Mind the Gap in Distilling StyleGANs**
 
@@ -331,7 +331,7 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **AdaNeRF: Adaptive Sampling for Real-time Rendering of Neural Radiance Fields**
 
 - 论文/Paper: http://arxiv.org/pdf/2207.10312
-- 代码/Code: None
+- 代码/Code: https://github.com/thomasneff/AdaNeRF
 
 **PS-NeRF: Neural Inverse Rendering for Multi-view Photometric Stereo**
 
@@ -341,7 +341,7 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Neural-Sim: Learning to Generate Training Data with NeRF**
 
 - 论文/Paper: http://arxiv.org/pdf/2207.11368
-- 代码/Code: None
+- 代码/Code: https://github.com/gyhandy/neural-sim-nerf
 
 **Neural Density-Distance Fields**
 
