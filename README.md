@@ -1023,7 +1023,7 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **FedX: Unsupervised Federated Learning with Cross Knowledge Distillation**
 
 - 论文/Paper: http://arxiv.org/pdf/2207.09158
-- 代码/Code: None
+- 代码/Code: https://github.com/sungwon-han/fedx
 
 [返回目录/back](#Contents)
 
@@ -2648,3 +2648,8 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 
 
+## <div align="center">Contribute</div>
+
+Thank you to all our contributors!
+
+<a href="https://github.com/Yulv-git"><img src="https://avatars.githubusercontent.com/u/34329208?v=4?"  width = "50" >
