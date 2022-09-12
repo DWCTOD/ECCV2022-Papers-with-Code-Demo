@@ -37,7 +37,8 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [GAN](#GAN)
 - [NeRF](#NeRF)
 - [Visual Transformer](#VisualTransformer)
-- [多模态/Multimodal ](#Multimodal )
+- [多模态/Multimodal ](#Multimodal)
+- [Vision-Language](#Vision-Language)
 - [对比学习/Contrastive Learning](#ContrastiveLearning)
 - [目标检测/Object Detection](#ObjectDetection)
 - [目标跟踪/Object Tracking](#ObjectTracking)
@@ -75,6 +76,7 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [图像增强/Image Enhancement](#ImageEnhancement)
 - [图像修复/Image Inpainting](#ImageInpainting)
 - [视频插帧/Video Interpolation](#VideoInterpolation)
+- [Temporal Action Segmentation](#TemporalActionSegmentation)
 - [检索/Image Retrieval](#ImageRetrieval)
 - [其他/Other](#Other)
 
@@ -354,6 +356,18 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2208.12343
 - 代码/Code: None
+
+**Exploring Gradient-based Multi-directional Controls in GANs**
+
+- 论文/Paper: http://arxiv.org/pdf/2209.00698
+- 代码/Code: None
+
+**Studying Bias in GANs through the Lens of Race**
+
+- 论文/Paper: http://arxiv.org/pdf/2209.02836
+- 代码/Code: None
+
+
 
 [返回目录/back](#Contents)
 
@@ -662,6 +676,17 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="Vision-Language"></a> 
+
+## Vision-Language
+
+**Vision-Language Adaptive Mutual Decoder for OOV-STR**
+
+- 论文/Paper: http://arxiv.org/pdf/2209.00859
+- 代码/Code: None
+
+[返回目录/back](#Contents)
+
 <a name="ContrastiveLearning"></a> 
 
 ## 对比学习/Contrastive Learning
@@ -860,6 +885,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Adversarial Vulnerability of Temporal Feature Networks for Object Detection**
 
 - 论文/Paper: http://arxiv.org/pdf/2208.10773
+- 代码/Code: None
+
+**Identifying Out-of-Distribution Samples in Real-Time for Safety-Critical 2D Object Detection with Margin Entropy Loss**
+
+- 论文/Paper: http://arxiv.org/pdf/2209.00364
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -1111,7 +1141,10 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2208.09836
 - 代码/Code: https://github.com/TechnionComputationalMRILab/qDWI-Morph.
 
+**Self-Supervised Pretraining for 2D Medical Image Segmentation**
 
+- 论文/Paper: http://arxiv.org/pdf/2209.00314
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -1189,6 +1222,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Lane Change Classification and Prediction with Action Recognition Networks**
 
 - 论文/Paper: http://arxiv.org/pdf/2208.11650
+- 代码/Code: None
+
+**Dynamic Spatio-Temporal Specialization Learning for Fine-Grained Action Recognition**
+
+- 论文/Paper: http://arxiv.org/pdf/2209.01425
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -1380,6 +1418,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2208.09815
 - 代码/Code: None
 
+**SimpleRecon: 3D Reconstruction Without 3D Convolutions**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.14743
+- 代码/Code: None
+
 
 
 [返回目录/back](#Contents)
@@ -1461,6 +1504,16 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2208.09231
 - 代码/Code: None
 
+**1st Place Solution to ECCV 2022 Challenge on Out of Vocabulary Scene Text Understanding: End-to-End Recognition of Out of Vocabulary Words**
+
+- 论文/Paper: http://arxiv.org/pdf/2209.00224
+- 代码/Code: None
+
+**Levenshtein OCR**
+
+- 论文/Paper: http://arxiv.org/pdf/2209.03594
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="TextRecognition"></a>
@@ -1487,7 +1540,10 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2208.03364
 - 代码/Code: None
 
+**Multi-Granularity Prediction for Scene Text Recognition**
 
+- 论文/Paper: http://arxiv.org/pdf/2209.03592
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -1549,6 +1605,16 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.14268
 - 代码/Code: https://github.com/MichaelRamamonjisoa/MonteBoxFinder
+
+**Improving RGB-D Point Cloud Registration by Learning Multi-scale Local Linear Transformation**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.14893
+- 代码/Code: https://github.com/514dna/llt
+
+**Learning to Generate Realistic LiDAR Point Clouds**
+
+- 论文/Paper: http://arxiv.org/pdf/2209.03954
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -1768,6 +1834,17 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Video Interpolation by Event-driven Anisotropic Adjustment of Optical Flow**
 
 - 论文/Paper: http://arxiv.org/pdf/2208.09127
+- 代码/Code: None
+
+[返回目录/back](#Contents)
+
+<a name="TemporalActionSegmentation"></a> 
+
+## Temporal Action Segmentation
+
+**Unified Fully and Timestamp Supervised Temporal Action Segmentation via Sequence to Sequence Translation**
+
+- 论文/Paper: http://arxiv.org/pdf/2209.00638
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -2962,7 +3039,50 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2208.14206
 - 代码/Code: None
 
+**Style-Agnostic Reinforcement Learning**
 
+- 论文/Paper: http://arxiv.org/pdf/2208.14863
+- 代码/Code: https://github.com/postech-cvlab/style-agnostic-rl
+
+**LiteDepth: Digging into Fast and Accurate Depth Estimation on Mobile Devices**
+
+- 论文/Paper: http://arxiv.org/pdf/2209.00961
+- 代码/Code: https://github.com/zhyever/LiteDepth
+
+**Unpaired Image Translation via Vector Symbolic Architectures**
+
+- 论文/Paper: http://arxiv.org/pdf/2209.02686
+- 代码/Code: None
+
+**CNSNet: A Cleanness-Navigated-Shadow Network for Shadow Removal**
+
+- 论文/Paper: http://arxiv.org/pdf/2209.02174
+- 代码/Code: None
+
+**Semi-Supervised Domain Adaptation by Similarity based Pseudo-label Injection**
+
+- 论文/Paper: http://arxiv.org/pdf/2209.01881
+- 代码/Code: None
+
+**Recurrent Bilinear Optimization for Binary Neural Networks**
+
+- 论文/Paper: http://arxiv.org/pdf/2209.01542
+- 代码/Code: https://github.com/SteveTsui/RBONN
+
+**Meta-Learning with Less Forgetting on Large-Scale Non-Stationary Task Distributions**
+
+- 论文/Paper: http://arxiv.org/pdf/2209.01501
+- 代码/Code: None
+
+**Towards Accurate Binary Neural Networks via Modeling Contextual Dependencies**
+
+- 论文/Paper: http://arxiv.org/pdf/2209.01404
+- 代码/Code: https://github.com/Sense-GVT/BCDN
+
+**Interpretations Steered Network Pruning via Amortized Inferred Saliency Maps**
+
+- 论文/Paper: http://arxiv.org/pdf/2209.02869
+- 代码/Code: https://github.com/Alii-Ganjj/InterpretationsSteeredPruning
 
 [返回目录/back](#Contents)
 
