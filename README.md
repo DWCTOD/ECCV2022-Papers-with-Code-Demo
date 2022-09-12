@@ -42,6 +42,7 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [目标检测/Object Detection](#ObjectDetection)
 - [目标跟踪/Object Tracking](#ObjectTracking)
 - [语义分割/Segmentation](#Segmentation)
+- [Video Segmentation](#VS)
 - [医学图像分割/Medical Image Segmentation](#MIS)
 - [Knowledge Distillation](#KnowledgeDistillation)
 - [Action Detection](#ActionDetection)
@@ -56,6 +57,7 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [人脸编辑/Facial Editing](#FacialEditing)
 - [人脸相关 / Face](#Face)
 - [人体姿态估计/Human Pose Estimation](#HumanPoseEstimation)
+- [3D reconstruction](#3DReconstruction)
 - [Human Reconstruction](#HumanReconstruction)
 - [Relighting](#Relighting)
 - [DeepFake](#DeepFake)
@@ -72,6 +74,7 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [图像复原/Image Restoration](#ImageRestoration)
 - [图像增强/Image Enhancement](#ImageEnhancement)
 - [图像修复/Image Inpainting](#ImageInpainting)
+- [视频插帧/Video Interpolation](#VideoInterpolation)
 - [检索/Image Retrieval](#ImageRetrieval)
 - [其他/Other](#Other)
 
@@ -146,6 +149,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.11075
 - 代码/Code: https://github.com/megvii-research/RealFlow
+
+**PLMCL: Partial-Label Momentum Curriculum Learning for Multi-Label Image Classification**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.09999
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -311,6 +319,41 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2208.08840
 - 代码/Code: https://github.com/xuguodong03/stylekd
+
+**ModSelect: Automatic Modality Selection for Synthetic-to-Real Domain Generalization**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.09414
+- 代码/Code: None
+
+**FurryGAN: High Quality Foreground-aware Image Synthesis**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.10422
+- 代码/Code: None
+
+**Improving GANs for Long-Tailed Data through Group Spectral Regularization**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.09932
+- 代码/Code: None
+
+**Unrestricted Black-box Adversarial Attack Using GAN with Limited Queries**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.11613
+- 代码/Code: None
+
+**3D-FM GAN: Towards 3D-Controllable Face Manipulation**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.11257
+- 代码/Code: None
+
+**High-Fidelity Image Inpainting with GAN Inversion**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.11850
+- 代码/Code: None
+
+**Bokeh-Loss GAN: Multi-Stage Adversarial Training for Realistic Edge-Aware Bokeh**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.12343
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -602,7 +645,20 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2208.08608
 - 代码/Code: https://github.com/TencentYoutuResearch/PersonRetrieval-IVT.
 
+**Learning an Efficient Multimodal Depth Completion Model**
 
+- 论文/Paper: http://arxiv.org/pdf/2208.10771
+- 代码/Code: https://github.com/dwhou/emdc-pytorch
+
+**Learning from Unlabeled 3D Environments for Vision-and-Language Navigation**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.11781
+- 代码/Code: None
+
+**CMD: Self-supervised 3D Action Representation Learning with Cross-modal Mutual Distillation**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.12448
+- 代码/Code: https://github.com/maoyunyao/cmd
 
 [返回目录/back](#Contents)
 
@@ -653,6 +709,21 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Bi-directional Contrastive Learning for Domain Adaptive Semantic Segmentation**
 
 - 论文/Paper: http://arxiv.org/pdf/2207.10892
+- 代码/Code: None
+
+**Patient-level Microsatellite Stability Assessment from Whole Slide Images By Combining Momentum Contrast Learning and Group Patch Embeddings**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.10429
+- 代码/Code: https://github.com/technioncomputationalmrilab/colorectal_cancer_ai
+
+**FairDisCo: Fairer AI in Dermatology via Disentanglement Contrastive Learning**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.10013
+- 代码/Code: https://github.com/siyi-wind/FairDisCo
+
+**CODER: Coupled Diversity-Sensitive Momentum Contrastive Learning for Image-Text Retrieval**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.09843
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -780,6 +851,16 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2208.08738
 - 代码/Code: https://github.com/chasel-tsui/mmdet-rfla
+
+**Object Detection in Aerial Images with Uncertainty-Aware Graph Network**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.10781
+- 代码/Code: None
+
+**Adversarial Vulnerability of Temporal Feature Networks for Object Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.10773
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -993,6 +1074,22 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2208.03826
 - 代码/Code: https://github.com/owenzlz/EgoHOS
 
+**Multi-Granularity Distillation Scheme Towards Lightweight Semi-Supervised Semantic Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.10169
+- 代码/Code: https://github.com/jayqine/mgd-ssss
+
+[返回目录/back](#Contents)
+
+<a name="VS"></a> 
+
+## Video Segmentation
+
+**Video Mask Transfiner for High-Quality Video Instance Segmentation**
+
+- 论文/Paper: https://arxiv.org/abs/2207.14012
+- 代码/Code: https://github.com/SysCV/vmt
+
 [返回目录/back](#Contents)
 
 <a name="MIS"></a> 
@@ -1008,6 +1105,13 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.09654
 - 代码/Code: https://github.com/topoxlab/topointeraction
+
+**qDWI-Morph: Motion-compensated quantitative Diffusion-Weighted MRI analysis for fetal lung maturity assessment**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.09836
+- 代码/Code: https://github.com/TechnionComputationalMRILab/qDWI-Morph.
+
+
 
 [返回目录/back](#Contents)
 
@@ -1082,6 +1186,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2208.05775
 - 代码/Code: https://github.com/skelemoa/psumnet
 
+**Lane Change Classification and Prediction with Action Recognition Networks**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.11650
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="AnomalyDetection"></a> 
@@ -1098,6 +1207,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.13798
 - 代码/Code: None
 
+**Towards Open Set Video Anomaly Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.11113
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="FaceRecognition"></a> 
@@ -1107,6 +1221,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Controllable and Guided Face Synthesis for Unconstrained Face Recognition**
 
 - 论文/Paper: http://arxiv.org/pdf/2207.10180
+- 代码/Code: None
+
+**Towards Robust Face Recognition with Comprehensive Search**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.13600
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -1185,7 +1304,15 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2208.07755
 - 代码/Code: None
 
+**Towards Unbiased Label Distribution Learning for Facial Pose Estimation Using Anisotropic Spherical Gaussian**
 
+- 论文/Paper: http://arxiv.org/pdf/2208.09122
+- 代码/Code: None
+
+**Learning Visibility for Robust Dense Human Body Estimation**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.10652
+- 代码/Code: https://github.com/chhankyao/visdb
 
 [返回目录/back](#Contents)
 
@@ -1197,6 +1324,13 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.10015
 - 代码/Code: None
+
+**Multi-domain Learning for Updating Face Anti-spoofing Models**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.11148
+- 代码/Code: None
+
+
 
 [返回目录/back](#Contents)
 
@@ -1229,6 +1363,24 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2208.07142
 - 代码/Code: None
+
+[返回目录/back](#Contents)
+
+<a name="3DReconstruction"></a> 
+
+## 3D reconstruction
+
+**Latent Partition Implicit with Surface Codes for 3D Representation**
+
+- 论文/Paper: https://arxiv.org/abs/2207.08631
+- 代码/Code: https://github.com/chenchao15/LPI
+
+**LWA-HAND: Lightweight Attention Hand for Interacting Hand Reconstruction**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.09815
+- 代码/Code: None
+
+
 
 [返回目录/back](#Contents)
 
@@ -1302,6 +1454,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Character decomposition to resolve class imbalance problem in Hangul OCR**
 
 - 论文/Paper: http://arxiv.org/pdf/2208.06079
+- 代码/Code: None
+
+**Shift Variance in Scene Text Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.09231
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -1515,6 +1672,16 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2208.03012
 - 代码/Code: https://github.com/researchmm/FTVSR
 
+**HST: Hierarchical Swin Transformer for Compressed Image Super-resolution**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.09885
+- 代码/Code: None
+
+**DSR: Towards Drone Image Super-Resolution**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.12327
+- 代码/Code: https://github.com/ivrl/dsr
+
 [返回目录/back](#Contents)
 
 <a name="ImageDenoising"></a>
@@ -1547,6 +1714,13 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2208.05244
 - 代码/Code: https://github.com/dasongli1/learning_degradation
 
+**Towards Real-World Video Deblurring by Exploring Blur Formation Process**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.13184
+- 代码/Code: None
+
+
+
 [返回目录/back](#Contents)
 
 <a name="ImageRestoration"></a>
@@ -1569,6 +1743,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2208.06768
 - 代码/Code: https://github.com/hitachinsk/fgt
 
+**Unbiased Multi-Modality Guidance for Image Inpainting**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.11844
+- 代码/Code: https://github.com/yeates/MMT
+
 [返回目录/back](#Contents)
 
 <a name="ImageEnhancement"></a> 
@@ -1579,6 +1758,17 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2207.10564
 - 代码/Code: https://github.com/jinyeying/night-enhancement
+
+[返回目录/back](#Contents)
+
+<a name="VideoInterpolation"></a> 
+
+## Video Interpolation
+
+**Video Interpolation by Event-driven Anisotropic Adjustment of Optical Flow**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.09127
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -1594,6 +1784,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **A Sketch Is Worth a Thousand Words: Image Retrieval with Text and Sketch**
 
 - 论文/Paper: http://arxiv.org/pdf/2208.03354
+- 代码/Code: None
+
+**CODER: Coupled Diversity-Sensitive Momentum Contrastive Learning for Image-Text Retrieval**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.09843
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -2642,14 +2837,133 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2208.08519
 - 代码/Code: https://github.com/tudelft-iv/crossviewmetriclocalization
 
+**GCISG: Guided Causal Invariant Learning for Improved Syn-to-real Generalization**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.10024
+- 代码/Code: None
+
+**SIM2E: Benchmarking the Group Equivariant Capability of Correspondence Matching Algorithms**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.09896
+- 代码/Code: None
+
+**Artifact-Based Domain Generalization of Skin Lesion Models**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.09756
+- 代码/Code: None
+
+**Fuse and Attend: Generalized Embedding Learning for Art and Sketches**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.09698
+- 代码/Code: None
+
+**Effectiveness of Function Matching in Driving Scene Recognition**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.09694
+- 代码/Code: None
+
+**Consistency Regularization for Domain Adaptation**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.11084
+- 代码/Code: https://github.com/kw01sg/crda
+
+**IMPaSh: A Novel Domain-shift Resistant Representation for Colorectal Cancer Tissue Classification**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.11052
+- 代码/Code: https://github.com/trinhvg/impash
+
+**Deep Structural Causal Shape Models**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.10950
+- 代码/Code: None
+
+**Learning from Noisy Labels with Coarse-to-Fine Sample Credibility Modeling**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.10683
+- 代码/Code: None
+
+**Anatomy-Aware Contrastive Representation Learning for Fetal Ultrasound**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.10642
+- 代码/Code: None
+
+**The Value of Out-of-Distribution Data**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.10967
+- 代码/Code: None
+
+**Ultra-high-resolution unpaired stain transformation via Kernelized Instance Normalization**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.10730
+- 代码/Code: https://github.com/kaminyou/urust
+
+**RIBAC: Towards Robust and Imperceptible Backdoor Attack against Compact DNN**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.10608
+- 代码/Code: https://github.com/huyvnphan/eccv2022-ribac
+
+**Cross-Camera View-Overlap Recognition**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.11661
+- 代码/Code: None
+
+**On the Design of Privacy-Aware Cameras: a Study on Deep Neural Networks**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.11372
+- 代码/Code: https://github.com/upciti/privacy-by-design-semseg
+
+**Discovering Transferable Forensic Features for CNN-generated Images Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.11342
+- 代码/Code: None
+
+**Doc2Graph: a Task Agnostic Document Understanding Framework based on Graph Neural Networks**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.11168
+- 代码/Code: https://github.com/andreagemelli/doc2graph
+
+**Learning Continuous Implicit Representation for Near-Periodic Patterns**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.12278
+- 代码/Code: None
+
+**NeuralSI: Structural Parameter Identification in Nonlinear Dynamical Systems**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.12771
+- 代码/Code: https://github.com/human-analysis/neural-structural-identification
+
+**Take One Gram of Neural Features, Get Enhanced Group Robustness**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.12625
+- 代码/Code: None
+
+**CIRCLe: Color Invariant Representation Learning for Unbiased Classification of Skin Lesions**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.13528
+- 代码/Code: None
+
+**ASpanFormer: Detector-Free Image Matching with Adaptive Span Transformer**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.14201
+- 代码/Code: None
+
+**Probing Contextual Diversity for Dense Out-of-Distribution Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.14195
+- 代码/Code: None
+
+**CAIR: Fast and Lightweight Multi-Scale Color Attention Network for Instagram Filter Removal**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.14039
+- 代码/Code: https://github.com/hnv-lab/cair
+
+**FUSION: Fully Unsupervised Test-Time Stain Adaptation via Fused Normalization Statistics**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.14206
+- 代码/Code: None
+
 
 
 [返回目录/back](#Contents)
 
 
-
-## <div align="center">Contribute</div>
-
-Thank you to all our contributors!
-
-<a href="https://github.com/Yulv-git"><img src="https://avatars.githubusercontent.com/u/34329208?v=4?"  width = "50" >
