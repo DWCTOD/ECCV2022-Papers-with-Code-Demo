@@ -78,6 +78,7 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [视频插帧/Video Interpolation](#VideoInterpolation)
 - [Temporal Action Segmentation](#TemporalActionSegmentation)
 - [检索/Image Retrieval](#ImageRetrieval)
+- [Diffusion](#diffusion)
 - [其他/Other](#Other)
 
 </details>
@@ -367,7 +368,15 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2209.02836
 - 代码/Code: None
 
+**Improved Masked Image Generation with Token-Critic**
 
+- 论文/Paper: http://arxiv.org/pdf/2209.04439
+- 代码/Code: None
+
+**Weakly-Supervised Stitching Network for Real-World Panoramic Image Generation**
+
+- 论文/Paper: http://arxiv.org/pdf/2209.05968
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -674,6 +683,16 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2208.12448
 - 代码/Code: https://github.com/maoyunyao/cmd
 
+**StoryDALL-E: Adapting Pretrained Text-to-Image Transformers for Story Continuation**
+
+- 论文/Paper: http://arxiv.org/pdf/2209.06192
+- 代码/Code: https://github.com/adymaharana/storydalle
+
+**MUST-VQA: MUltilingual Scene-text VQA**
+
+- 论文/Paper: http://arxiv.org/pdf/2209.06730
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="Vision-Language"></a> 
@@ -684,6 +703,8 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2209.00859
 - 代码/Code: None
+
+
 
 [返回目录/back](#Contents)
 
@@ -891,6 +912,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2209.00364
 - 代码/Code: None
+
+**CenterFormer: Center-based Transformer for 3D Object Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2209.05588
+- 代码/Code: https://github.com/tusimple/centerformer
 
 [返回目录/back](#Contents)
 
@@ -1108,6 +1134,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2208.10169
 - 代码/Code: https://github.com/jayqine/mgd-ssss
+
+**Occlusion-Aware Instance Segmentation via BiLayer Network Architectures**
+
+- 论文/Paper: http://arxiv.org/pdf/2208.04438
+- 代码/Code: https://github.com/lkeab/BCNet
 
 [返回目录/back](#Contents)
 
@@ -1660,6 +1691,11 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2207.11984
 - 代码/Code: None
 
+**Self-distilled Feature Aggregation for Self-supervised Monocular Depth Estimation**
+
+- 论文/Paper: http://arxiv.org/pdf/2209.07088
+- 代码/Code: https://github.com/ZM-Zhou/SDFA-Net_pytorch
+
 [返回目录/back](#Contents)
 
 <a name="LaneDetection"></a>
@@ -1866,6 +1902,15 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **CODER: Coupled Diversity-Sensitive Momentum Contrastive Learning for Image-Text Retrieval**
 
 - 论文/Paper: http://arxiv.org/pdf/2208.09843
+- 代码/Code: None
+
+[返回目录/back](#Contents)
+
+<a name="diffusion"></a> 
+
+**Lossy Image Compression with Conditional Diffusion Models**
+
+- 论文/Paper: http://arxiv.org/pdf/2209.06950
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -3084,6 +3129,70 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2209.02869
 - 代码/Code: https://github.com/Alii-Ganjj/InterpretationsSteeredPruning
 
-[返回目录/back](#Contents)
+**Exploring Anchor-based Detection for Ego4D Natural Language Query**
 
+- 论文/Paper: http://arxiv.org/pdf/2208.05375
+- 代码/Code: None
+
+**Detecting Driver Drowsiness as an Anomaly Using LSTM Autoencoders**
+
+- 论文/Paper: http://arxiv.org/pdf/2209.05269
+- 代码/Code: None
+
+**Switchable Online Knowledge Distillation**
+
+- 论文/Paper: http://arxiv.org/pdf/2209.04996
+- 代码/Code: https://github.com/hfutqian/SwitOKD
+
+**Self-supervised Human Mesh Recovery with Cross-Representation Alignment**
+
+- 论文/Paper: http://arxiv.org/pdf/2209.04596
+- 代码/Code: None
+
+**Check and Link: Pairwise Lesion Correspondence Guides Mammogram Mass Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2209.05809
+- 代码/Code: None
+
+**PointScatter: Point Set Representation for Tubular Structure Extraction**
+
+- 论文/Paper: http://arxiv.org/pdf/2209.05774
+- 代码/Code: https://github.com/zhangzhao2022/pointscatter
+
+**Adversarial Coreset Selection for Efficient Robust Training**
+
+- 论文/Paper: http://arxiv.org/pdf/2209.05785
+- 代码/Code: None
+
+**Out-of-Vocabulary Challenge Report**
+
+- 论文/Paper: http://arxiv.org/pdf/2209.06717
+- 代码/Code: None
+
+**DevNet: Self-supervised Monocular Depth Learning via Density Volume Construction**
+
+- 论文/Paper: http://arxiv.org/pdf/2209.06351
+- 代码/Code: https://github.com/gitkaichenzhou/DevNet.
+
+**MIPI 2022 Challenge on RGB+ToF Depth Completion: Dataset and Report**
+
+- 论文/Paper: http://arxiv.org/pdf/2209.07057
+- 代码/Code: https://github.com/mipi-challenge/MIPI2022.
+
+**MIPI 2022 Challenge on Quad-Bayer Re-mosaic: Dataset and Report**
+
+- 论文/Paper: http://arxiv.org/pdf/2209.07060
+- 代码/Code: https://github.com/mipi-challenge/MIPI2022.
+
+**MIPI 2022 Challenge on Under-Display Camera Image Restoration: Methods and Results**
+
+- 论文/Paper: http://arxiv.org/pdf/2209.07052
+- 代码/Code: https://github.com/mipi-challenge/MIPI2022.
+
+**Hydra Attention: Efficient Attention with Many Heads**
+
+- 论文/Paper: http://arxiv.org/pdf/2209.07484
+- 代码/Code: None
+
+[返回目录/back](#Contents)
 
