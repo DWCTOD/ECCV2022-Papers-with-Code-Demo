@@ -3,6 +3,11 @@
 
 欢迎关注公众号：AI算法与图像处理
 
+ :star_and_crescent:**福利 注册即可领取 200 块计算资源 : https://www.bkunyun.com/wap/console?source=aistudy**
+ [使用说明](https://mp.weixin.qq.com/s?__biz=MzU4NTY4Mzg1Mw==&amp;mid=2247521550&amp;idx=1&amp;sn=db4c7f609bd61ae7734b9e012a763f98&amp;chksm=fd8413eccaf39afa686f69f2df2463f4a6a8233ba3b3edf698513bbee556c9f6c21e835b8eb8&token=705359263&lang=zh_CN#rd)
+
+
+
 :star2: [ECCV 2022](https://eccv2022.ecva.net/) 持续更新最新论文/paper和相应的开源代码/code！
 
 :car: ECCV 2022 收录列表ID：https://ailb-web.ing.unimore.it/releases/eccv2022/accepted_papers.txt
