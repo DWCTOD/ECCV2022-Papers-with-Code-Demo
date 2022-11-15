@@ -45,6 +45,7 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [多模态/Multimodal ](#Multimodal)
 - [Vision-Language](#Vision-Language)
 - [对比学习/Contrastive Learning](#ContrastiveLearning)
+- [Domain Adaptation](#DomainAdaptation)
 - [目标检测/Object Detection](#ObjectDetection)
 - [目标跟踪/Object Tracking](#ObjectTracking)
 - [语义分割/Segmentation](#Segmentation)
@@ -710,6 +711,17 @@ ECCV 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 代码/Code: None
 
 
+
+[返回目录/back](#Contents)
+
+<a name="DomainAdaptation"></a> 
+
+## Domain Adaptation
+
+**Concurrent Subsidiary Supervision for Unsupervised Source-Free Domain Adaptation**
+
+- 论文/Paper: https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900177.pdf
+- 代码/Code: https://github.com/val-iisc/StickerDA
 
 [返回目录/back](#Contents)
 
